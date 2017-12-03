@@ -1,0 +1,769 @@
+ID,Species,Population,Region,State,Replicate,Strat Length,Strat Temp,Strat Treat,Inc Temp,TreatID,Total Germ,Viable,Dead,Total Viable,VAG,bio1,bio2,bio4,bio8,bio12,bio15,bio18
+HEMU1-1(1),Heliomeris_multiflora,AZ,Flagstaff,AZ,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",3,16,6,19,0.16,104,162,7145,194,556,37,150
+HEMU1-2(1),Heliomeris_multiflora,AZ,Flagstaff,AZ,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",5,14,6,19,0.26,104,162,7145,194,556,37,150
+HEMU1-3(1),Heliomeris_multiflora,AZ,Flagstaff,AZ,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",2,17,6,19,0.11,104,162,7145,194,556,37,150
+HEMU1-4(1),Heliomeris_multiflora,AZ,Flagstaff,AZ,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",2,15,8,17,0.12,104,162,7145,194,556,37,150
+HEMU1-5(1),Heliomeris_multiflora,AZ,Flagstaff,AZ,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",9,7,9,16,0.56,104,162,7145,194,556,37,150
+HEMU1-6(1),Heliomeris_multiflora,AZ,Flagstaff,AZ,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",7,9,9,16,0.44,104,162,7145,194,556,37,150
+HEMU1-7(1),Heliomeris_multiflora,AZ,Flagstaff,AZ,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",6,14,5,20,0.3,104,162,7145,194,556,37,150
+HEMU1-8(1),Heliomeris_multiflora,AZ,Flagstaff,AZ,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",9,6,10,15,0.6,104,162,7145,194,556,37,150
+HEMU2-1(1),Heliomeris_multiflora,CO,Ouray,CO,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",11,0,13,11,1,19,170,8499,120,422,28,141
+HEMU2-2(1),Heliomeris_multiflora,CO,Ouray,CO,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",22,3,1,25,0.88,19,170,8499,120,422,28,141
+HEMU2-3(1),Heliomeris_multiflora,CO,Ouray,CO,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",24,1,0,25,0.96,19,170,8499,120,422,28,141
+HEMU2-4(1),Heliomeris_multiflora,CO,Ouray,CO,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",19,3,3,22,0.86,19,170,8499,120,422,28,141
+HEMU2-5(1),Heliomeris_multiflora,CO,Ouray,CO,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",24,1,1,25,0.96,19,170,8499,120,422,28,141
+HEMU2-6(1),Heliomeris_multiflora,CO,Ouray,CO,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",22,3,3,25,0.85,19,170,8499,120,422,28,141
+HEMU2-7(1),Heliomeris_multiflora,CO,Ouray,CO,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",21,1,3,22,0.95,19,170,8499,120,422,28,141
+HEMU2-8(1),Heliomeris_multiflora,CO,Ouray,CO,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",22,0,5,22,1,19,170,8499,120,422,28,141
+HEMU3-1(1),Heliomeris_multiflora,NM,Organ,NM,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",22,1,2,23,0.96,124,162,6927,204,363,72,175
+HEMU3-2(1),Heliomeris_multiflora,NM,Organ,NM,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",25,0,1,25,1,124,162,6927,204,363,72,175
+HEMU3-3(1),Heliomeris_multiflora,NM,Organ,NM,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",23,0,2,23,1,124,162,6927,204,363,72,175
+HEMU3-4(1),Heliomeris_multiflora,NM,Organ,NM,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",23,1,1,24,0.96,124,162,6927,204,363,72,175
+HEMU3-5(1),Heliomeris_multiflora,NM,Organ,NM,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",20,1,4,21,0.95,124,162,6927,204,363,72,175
+HEMU3-6(1),Heliomeris_multiflora,NM,Organ,NM,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",23,0,2,23,1,124,162,6927,204,363,72,175
+HEMU3-7(1),Heliomeris_multiflora,NM,Organ,NM,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",22,0,4,22,1,124,162,6927,204,363,72,175
+HEMU3-8(1),Heliomeris_multiflora,NM,Organ,NM,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",24,0,1,24,1,124,162,6927,204,363,72,175
+HEMU1-1(2),Heliomeris_multiflora,AZ,Flagstaff,AZ,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",0,23,2,23,0,104,162,7145,194,556,37,150
+HEMU1-2(2),Heliomeris_multiflora,AZ,Flagstaff,AZ,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",4,20,1,24,0.17,104,162,7145,194,556,37,150
+HEMU1-3(2),Heliomeris_multiflora,AZ,Flagstaff,AZ,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",2,20,3,22,0.09,104,162,7145,194,556,37,150
+HEMU1-4(2),Heliomeris_multiflora,AZ,Flagstaff,AZ,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",2,17,6,19,0.11,104,162,7145,194,556,37,150
+HEMU1-5(2),Heliomeris_multiflora,AZ,Flagstaff,AZ,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",9,5,11,14,0.64,104,162,7145,194,556,37,150
+HEMU1-6(2),Heliomeris_multiflora,AZ,Flagstaff,AZ,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",11,5,9,16,0.69,104,162,7145,194,556,37,150
+HEMU1-7(2),Heliomeris_multiflora,AZ,Flagstaff,AZ,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",7,4,14,11,0.64,104,162,7145,194,556,37,150
+HEMU1-8(2),Heliomeris_multiflora,AZ,Flagstaff,AZ,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",13,8,4,21,0.62,104,162,7145,194,556,37,150
+HEMU2-1(2),Heliomeris_multiflora,CO,Ouray,CO,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",22,2,1,24,0.92,19,170,8499,120,422,28,141
+HEMU2-2(2),Heliomeris_multiflora,CO,Ouray,CO,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",20,2,3,22,0.91,19,170,8499,120,422,28,141
+HEMU2-3(2),Heliomeris_multiflora,CO,Ouray,CO,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",14,9,2,23,0.61,19,170,8499,120,422,28,141
+HEMU2-4(2),Heliomeris_multiflora,CO,Ouray,CO,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",19,6,0,25,0.76,19,170,8499,120,422,28,141
+HEMU2-5(2),Heliomeris_multiflora,CO,Ouray,CO,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",17,3,7,20,0.85,19,170,8499,120,422,28,141
+HEMU2-6(2),Heliomeris_multiflora,CO,Ouray,CO,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",15,10,0,25,0.6,19,170,8499,120,422,28,141
+HEMU2-7(2),Heliomeris_multiflora,CO,Ouray,CO,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",18,3,6,21,0.86,19,170,8499,120,422,28,141
+HEMU2-8(2),Heliomeris_multiflora,CO,Ouray,CO,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",17,7,3,24,0.71,19,170,8499,120,422,28,141
+HEMU3-1(2),Heliomeris_multiflora,NM,Organ,NM,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",18,4,3,22,0.82,124,162,6927,204,363,72,175
+HEMU3-2(2),Heliomeris_multiflora,NM,Organ,NM,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",23,0,2,23,1,124,162,6927,204,363,72,175
+HEMU3-3(2),Heliomeris_multiflora,NM,Organ,NM,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",18,3,4,21,0.86,124,162,6927,204,363,72,175
+HEMU3-4(2),Heliomeris_multiflora,NM,Organ,NM,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",19,5,1,24,0.79,124,162,6927,204,363,72,175
+HEMU3-5(2),Heliomeris_multiflora,NM,Organ,NM,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",19,2,4,21,0.9,124,162,6927,204,363,72,175
+HEMU3-6(2),Heliomeris_multiflora,NM,Organ,NM,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",22,1,2,23,0.96,124,162,6927,204,363,72,175
+HEMU3-7(2),Heliomeris_multiflora,NM,Organ,NM,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",21,3,2,24,0.88,124,162,6927,204,363,72,175
+HEMU3-8(2),Heliomeris_multiflora,NM,Organ,NM,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",19,1,5,20,0.95,124,162,6927,204,363,72,175
+HEMU1-1(3),Heliomeris_multiflora,AZ,Flagstaff,AZ,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",5,12,8,17,0.29,104,162,7145,194,556,37,150
+HEMU1-2(3),Heliomeris_multiflora,AZ,Flagstaff,AZ,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",4,17,4,21,0.19,104,162,7145,194,556,37,150
+HEMU1-3(3),Heliomeris_multiflora,AZ,Flagstaff,AZ,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",4,15,6,19,0.21,104,162,7145,194,556,37,150
+HEMU1-4(3),Heliomeris_multiflora,AZ,Flagstaff,AZ,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",4,17,4,21,0.19,104,162,7145,194,556,37,150
+HEMU1-5(3),Heliomeris_multiflora,AZ,Flagstaff,AZ,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",17,6,2,23,0.74,104,162,7145,194,556,37,150
+HEMU1-6(3),Heliomeris_multiflora,AZ,Flagstaff,AZ,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",7,8,10,15,0.47,104,162,7145,194,556,37,150
+HEMU1-7(3),Heliomeris_multiflora,AZ,Flagstaff,AZ,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",9,8,7,17,0.53,104,162,7145,194,556,37,150
+HEMU1-8(3),Heliomeris_multiflora,AZ,Flagstaff,AZ,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",10,4,11,14,0.71,104,162,7145,194,556,37,150
+HEMU2-1(3),Heliomeris_multiflora,CO,Ouray,CO,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",0,21,4,21,0,19,170,8499,120,422,28,141
+HEMU2-2(3),Heliomeris_multiflora,CO,Ouray,CO,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",0,23,2,23,0,19,170,8499,120,422,28,141
+HEMU2-3(3),Heliomeris_multiflora,CO,Ouray,CO,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",0,21,4,21,0,19,170,8499,120,422,28,141
+HEMU2-4(3),Heliomeris_multiflora,CO,Ouray,CO,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",2,21,2,23,0.09,19,170,8499,120,422,28,141
+HEMU2-5(3),Heliomeris_multiflora,CO,Ouray,CO,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",1,22,2,23,0.04,19,170,8499,120,422,28,141
+HEMU2-6(3),Heliomeris_multiflora,CO,Ouray,CO,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",1,21,3,22,0.05,19,170,8499,120,422,28,141
+HEMU2-7(3),Heliomeris_multiflora,CO,Ouray,CO,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",0,21,4,21,0,19,170,8499,120,422,28,141
+HEMU2-8(3),Heliomeris_multiflora,CO,Ouray,CO,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",0,24,1,24,0,19,170,8499,120,422,28,141
+HEMU3-1(3),Heliomeris_multiflora,NM,Organ,NM,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",23,2,0,25,0.92,124,162,6927,204,363,72,175
+HEMU3-2(3),Heliomeris_multiflora,NM,Organ,NM,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",17,4,4,21,0.81,124,162,6927,204,363,72,175
+HEMU3-3(3),Heliomeris_multiflora,NM,Organ,NM,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",18,3,4,21,0.86,124,162,6927,204,363,72,175
+HEMU3-4(3),Heliomeris_multiflora,NM,Organ,NM,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",22,3,0,25,0.88,124,162,6927,204,363,72,175
+HEMU3-5(3),Heliomeris_multiflora,NM,Organ,NM,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",22,2,1,24,0.92,124,162,6927,204,363,72,175
+HEMU3-6(3),Heliomeris_multiflora,NM,Organ,NM,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",22,0,4,22,1,124,162,6927,204,363,72,175
+HEMU3-7(3),Heliomeris_multiflora,NM,Organ,NM,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",19,2,4,21,0.9,124,162,6927,204,363,72,175
+HEMU3-8(3),Heliomeris_multiflora,NM,Organ,NM,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",19,0,6,19,1,124,162,6927,204,363,72,175
+HEMU1-1(4),Heliomeris_multiflora,AZ,Flagstaff,AZ,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",1,24,0,25,0.04,104,162,7145,194,556,37,150
+HEMU1-2(4),Heliomeris_multiflora,AZ,Flagstaff,AZ,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",3,20,2,23,0.13,104,162,7145,194,556,37,150
+HEMU1-3(4),Heliomeris_multiflora,AZ,Flagstaff,AZ,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",1,21,3,22,0.05,104,162,7145,194,556,37,150
+HEMU1-4(4),Heliomeris_multiflora,AZ,Flagstaff,AZ,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",4,16,5,20,0.2,104,162,7145,194,556,37,150
+HEMU1-5(4),Heliomeris_multiflora,AZ,Flagstaff,AZ,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",4,15,6,19,0.21,104,162,7145,194,556,37,150
+HEMU1-6(4),Heliomeris_multiflora,AZ,Flagstaff,AZ,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",13,4,8,17,0.76,104,162,7145,194,556,37,150
+HEMU1-7(4),Heliomeris_multiflora,AZ,Flagstaff,AZ,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",9,11,5,20,0.45,104,162,7145,194,556,37,150
+HEMU1-8(4),Heliomeris_multiflora,AZ,Flagstaff,AZ,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",4,12,9,16,0.25,104,162,7145,194,556,37,150
+HEMU2-1(4),Heliomeris_multiflora,CO,Ouray,CO,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",5,20,0,25,0.2,19,170,8499,120,422,28,141
+HEMU2-2(4),Heliomeris_multiflora,CO,Ouray,CO,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",5,18,2,23,0.22,19,170,8499,120,422,28,141
+HEMU2-3(4),Heliomeris_multiflora,CO,Ouray,CO,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",8,17,0,25,0.32,19,170,8499,120,422,28,141
+HEMU2-4(4),Heliomeris_multiflora,CO,Ouray,CO,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",6,19,0,25,0.24,19,170,8499,120,422,28,141
+HEMU2-5(4),Heliomeris_multiflora,CO,Ouray,CO,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",4,21,0,25,0.16,19,170,8499,120,422,28,141
+HEMU2-6(4),Heliomeris_multiflora,CO,Ouray,CO,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",4,20,1,24,0.17,19,170,8499,120,422,28,141
+HEMU2-7(4),Heliomeris_multiflora,CO,Ouray,CO,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",3,18,4,21,0.14,19,170,8499,120,422,28,141
+HEMU2-8(4),Heliomeris_multiflora,CO,Ouray,CO,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",4,20,1,24,0.17,19,170,8499,120,422,28,141
+HEMU3-1(4),Heliomeris_multiflora,NM,Organ,NM,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",22,3,0,25,0.88,124,162,6927,204,363,72,175
+HEMU3-2(4),Heliomeris_multiflora,NM,Organ,NM,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",22,2,1,24,0.92,124,162,6927,204,363,72,175
+HEMU3-3(4),Heliomeris_multiflora,NM,Organ,NM,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",21,2,2,23,0.91,124,162,6927,204,363,72,175
+HEMU3-4(4),Heliomeris_multiflora,NM,Organ,NM,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",20,1,4,21,0.95,124,162,6927,204,363,72,175
+HEMU3-5(4),Heliomeris_multiflora,NM,Organ,NM,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",24,0,1,24,1,124,162,6927,204,363,72,175
+HEMU3-6(4),Heliomeris_multiflora,NM,Organ,NM,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",22,1,2,23,0.96,124,162,6927,204,363,72,175
+HEMU3-7(4),Heliomeris_multiflora,NM,Organ,NM,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",22,0,3,22,1,124,162,6927,204,363,72,175
+HEMU3-8(4),Heliomeris_multiflora,NM,Organ,NM,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",24,0,1,24,1,124,162,6927,204,363,72,175
+PAMU1-1(1),Packera_multilobata,UT,Arch Rock,UT,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",23,0,2,23,1,101,152,9225,169,266,23,69
+PAMU1-2(1),Packera_multilobata,UT,Arch Rock,UT,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",25,0,0,25,1,101,152,9225,169,266,23,69
+PAMU1-3(1),Packera_multilobata,UT,Arch Rock,UT,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",25,0,0,25,1,101,152,9225,169,266,23,69
+PAMU1-4(1),Packera_multilobata,UT,Arch Rock,UT,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",24,0,1,24,1,101,152,9225,169,266,23,69
+PAMU1-5(1),Packera_multilobata,UT,Arch Rock,UT,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",25,0,0,25,1,101,152,9225,169,266,23,69
+PAMU1-6(1),Packera_multilobata,UT,Arch Rock,UT,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",24,0,1,24,1,101,152,9225,169,266,23,69
+PAMU1-7(1),Packera_multilobata,UT,Arch Rock,UT,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",22,0,3,22,1,101,152,9225,169,266,23,69
+PAMU1-8(1),Packera_multilobata,UT,Arch Rock,UT,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",25,0,0,25,1,101,152,9225,169,266,23,69
+PAMU2-1(1),Packera_multilobata,AZ,Griffiths,AZ,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",22,0,3,22,1,82,165,7153,173,564,37,158
+PAMU2-2(1),Packera_multilobata,AZ,Griffiths,AZ,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",24,0,1,24,1,82,165,7153,173,564,37,158
+PAMU2-3(1),Packera_multilobata,AZ,Griffiths,AZ,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",22,2,1,24,0.92,82,165,7153,173,564,37,158
+PAMU2-4(1),Packera_multilobata,AZ,Griffiths,AZ,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",24,1,0,25,0.96,82,165,7153,173,564,37,158
+PAMU2-5(1),Packera_multilobata,AZ,Griffiths,AZ,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",24,0,1,24,1,82,165,7153,173,564,37,158
+PAMU2-6(1),Packera_multilobata,AZ,Griffiths,AZ,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",22,0,3,22,1,82,165,7153,173,564,37,158
+PAMU2-7(1),Packera_multilobata,AZ,Griffiths,AZ,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",25,0,0,25,1,82,165,7153,173,564,37,158
+PAMU2-8(1),Packera_multilobata,AZ,Griffiths,AZ,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",22,0,4,22,1,82,165,7153,173,564,37,158
+PAMU1-1(2),Packera_multilobata,UT,Arch Rock,UT,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",20,0,5,20,1,101,152,9225,169,266,23,69
+PAMU1-2(2),Packera_multilobata,UT,Arch Rock,UT,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",23,0,2,23,1,101,152,9225,169,266,23,69
+PAMU1-3(2),Packera_multilobata,UT,Arch Rock,UT,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",25,0,0,25,1,101,152,9225,169,266,23,69
+PAMU1-4(2),Packera_multilobata,UT,Arch Rock,UT,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",23,0,2,23,1,101,152,9225,169,266,23,69
+PAMU1-5(2),Packera_multilobata,UT,Arch Rock,UT,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",22,0,3,22,1,101,152,9225,169,266,23,69
+PAMU1-6(2),Packera_multilobata,UT,Arch Rock,UT,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",21,0,4,21,1,101,152,9225,169,266,23,69
+PAMU1-7(2),Packera_multilobata,UT,Arch Rock,UT,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",23,0,2,23,1,101,152,9225,169,266,23,69
+PAMU1-8(2),Packera_multilobata,UT,Arch Rock,UT,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",24,0,1,24,1,101,152,9225,169,266,23,69
+PAMU2-1(2),Packera_multilobata,AZ,Griffiths,AZ,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",23,0,2,23,1,82,165,7153,173,564,37,158
+PAMU2-2(2),Packera_multilobata,AZ,Griffiths,AZ,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",20,4,1,24,0.83,82,165,7153,173,564,37,158
+PAMU2-3(2),Packera_multilobata,AZ,Griffiths,AZ,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",22,0,3,22,1,82,165,7153,173,564,37,158
+PAMU2-4(2),Packera_multilobata,AZ,Griffiths,AZ,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",20,1,4,21,0.95,82,165,7153,173,564,37,158
+PAMU2-5(2),Packera_multilobata,AZ,Griffiths,AZ,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",19,0,6,19,1,82,165,7153,173,564,37,158
+PAMU2-6(2),Packera_multilobata,AZ,Griffiths,AZ,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",21,0,4,21,1,82,165,7153,173,564,37,158
+PAMU2-7(2),Packera_multilobata,AZ,Griffiths,AZ,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",23,0,2,23,1,82,165,7153,173,564,37,158
+PAMU2-8(2),Packera_multilobata,AZ,Griffiths,AZ,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",22,0,4,22,1,82,165,7153,173,564,37,158
+PAMU1-1(3),Packera_multilobata,UT,Arch Rock,UT,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",24,1,0,25,0.96,101,152,9225,169,266,23,69
+PAMU1-2(3),Packera_multilobata,UT,Arch Rock,UT,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",23,0,2,23,1,101,152,9225,169,266,23,69
+PAMU1-3(3),Packera_multilobata,UT,Arch Rock,UT,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",20,0,4,20,1,101,152,9225,169,266,23,69
+PAMU1-4(3),Packera_multilobata,UT,Arch Rock,UT,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",23,1,1,24,0.96,101,152,9225,169,266,23,69
+PAMU1-5(3),Packera_multilobata,UT,Arch Rock,UT,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",22,0,3,22,1,101,152,9225,169,266,23,69
+PAMU1-6(3),Packera_multilobata,UT,Arch Rock,UT,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",19,0,6,19,1,101,152,9225,169,266,23,69
+PAMU1-7(3),Packera_multilobata,UT,Arch Rock,UT,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",22,0,3,22,1,101,152,9225,169,266,23,69
+PAMU1-8(3),Packera_multilobata,UT,Arch Rock,UT,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",21,0,4,21,1,101,152,9225,169,266,23,69
+PAMU2-1(3),Packera_multilobata,AZ,Griffiths,AZ,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",20,0,5,20,1,82,165,7153,173,564,37,158
+PAMU2-2(3),Packera_multilobata,AZ,Griffiths,AZ,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",18,1,6,19,0.95,82,165,7153,173,564,37,158
+PAMU2-3(3),Packera_multilobata,AZ,Griffiths,AZ,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",21,0,4,21,1,82,165,7153,173,564,37,158
+PAMU2-4(3),Packera_multilobata,AZ,Griffiths,AZ,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",19,2,4,21,0.9,82,165,7153,173,564,37,158
+PAMU2-5(3),Packera_multilobata,AZ,Griffiths,AZ,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",18,1,6,19,0.95,82,165,7153,173,564,37,158
+PAMU2-6(3),Packera_multilobata,AZ,Griffiths,AZ,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",23,0,2,23,1,82,165,7153,173,564,37,158
+PAMU2-7(3),Packera_multilobata,AZ,Griffiths,AZ,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",23,1,1,24,0.96,82,165,7153,173,564,37,158
+PAMU2-8(3),Packera_multilobata,AZ,Griffiths,AZ,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",18,6,1,24,0.75,82,165,7153,173,564,37,158
+PAMU1-1(4),Packera_multilobata,UT,Arch Rock,UT,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",25,0,0,25,1,101,152,9225,169,266,23,69
+PAMU1-2(4),Packera_multilobata,UT,Arch Rock,UT,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",23,0,2,23,1,101,152,9225,169,266,23,69
+PAMU1-3(4),Packera_multilobata,UT,Arch Rock,UT,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",21,3,2,24,0.88,101,152,9225,169,266,23,69
+PAMU1-4(4),Packera_multilobata,UT,Arch Rock,UT,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",24,0,1,24,1,101,152,9225,169,266,23,69
+PAMU1-5(4),Packera_multilobata,UT,Arch Rock,UT,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",20,1,4,21,0.95,101,152,9225,169,266,23,69
+PAMU1-6(4),Packera_multilobata,UT,Arch Rock,UT,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",25,0,0,25,1,101,152,9225,169,266,23,69
+PAMU1-7(4),Packera_multilobata,UT,Arch Rock,UT,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",24,0,1,24,1,101,152,9225,169,266,23,69
+PAMU1-8(4),Packera_multilobata,UT,Arch Rock,UT,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",19,0,6,19,1,101,152,9225,169,266,23,69
+PAMU2-1(4),Packera_multilobata,AZ,Griffiths,AZ,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",18,0,7,18,1,82,165,7153,173,564,37,158
+PAMU2-2(4),Packera_multilobata,AZ,Griffiths,AZ,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",21,1,3,22,0.95,82,165,7153,173,564,37,158
+PAMU2-3(4),Packera_multilobata,AZ,Griffiths,AZ,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",20,0,5,20,1,82,165,7153,173,564,37,158
+PAMU2-4(4),Packera_multilobata,AZ,Griffiths,AZ,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",21,1,3,22,0.95,82,165,7153,173,564,37,158
+PAMU2-5(4),Packera_multilobata,AZ,Griffiths,AZ,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",21,0,4,21,1,82,165,7153,173,564,37,158
+PAMU2-6(4),Packera_multilobata,AZ,Griffiths,AZ,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",23,2,0,25,0.92,82,165,7153,173,564,37,158
+PAMU2-7(4),Packera_multilobata,AZ,Griffiths,AZ,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",24,0,1,24,1,82,165,7153,173,564,37,158
+PAMU2-8(4),Packera_multilobata,AZ,Griffiths,AZ,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",25,0,0,25,1,82,165,7153,173,564,37,158
+MATA1-1(1),Machaeranthera_tanacetifolia,UT1,Grand,UT,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",13,6,5,19,0.68,112,166,9811,183,210,24,54
+MATA1-2(1),Machaeranthera_tanacetifolia,UT1,Grand,UT,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",10,11,4,21,0.48,112,166,9811,183,210,24,54
+MATA1-3(1),Machaeranthera_tanacetifolia,UT1,Grand,UT,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",7,11,7,18,0.39,112,166,9811,183,210,24,54
+MATA1-4(1),Machaeranthera_tanacetifolia,UT1,Grand,UT,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",11,11,3,22,0.5,112,166,9811,183,210,24,54
+MATA1-5(1),Machaeranthera_tanacetifolia,UT1,Grand,UT,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",15,9,2,24,0.63,112,166,9811,183,210,24,54
+MATA1-6(1),Machaeranthera_tanacetifolia,UT1,Grand,UT,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",13,5,7,18,0.72,112,166,9811,183,210,24,54
+MATA1-7(1),Machaeranthera_tanacetifolia,UT1,Grand,UT,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",7,14,5,21,0.33,112,166,9811,183,210,24,54
+MATA1-8(1),Machaeranthera_tanacetifolia,UT1,Grand,UT,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",16,3,6,19,0.84,112,166,9811,183,210,24,54
+MATA2-1(1),Machaeranthera_tanacetifolia,UT2,Garfield,UT,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",12,4,9,16,0.75,116,155,9216,226,177,34,56
+MATA2-2(1),Machaeranthera_tanacetifolia,UT2,Garfield,UT,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",12,9,4,21,0.57,116,155,9216,226,177,34,56
+MATA2-3(1),Machaeranthera_tanacetifolia,UT2,Garfield,UT,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",11,8,5,19,0.58,116,155,9216,226,177,34,56
+MATA2-4(1),Machaeranthera_tanacetifolia,UT2,Garfield,UT,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",16,0,9,16,1,116,155,9216,226,177,34,56
+MATA2-5(1),Machaeranthera_tanacetifolia,UT2,Garfield,UT,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",9,1,14,10,0.9,116,155,9216,226,177,34,56
+MATA2-6(1),Machaeranthera_tanacetifolia,UT2,Garfield,UT,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",15,1,9,16,0.94,116,155,9216,226,177,34,56
+MATA2-7(1),Machaeranthera_tanacetifolia,UT2,Garfield,UT,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",14,7,4,21,0.67,116,155,9216,226,177,34,56
+MATA2-8(1),Machaeranthera_tanacetifolia,UT2,Garfield,UT,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",16,5,4,21,0.76,116,155,9216,226,177,34,56
+MATA4-1(1),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",20,4,1,24,0.83,78,194,6539,159,529,61,217
+MATA4-2(1),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",22,3,2,25,0.88,78,194,6539,159,529,61,217
+MATA4-3(1),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",19,6,2,25,0.76,78,194,6539,159,529,61,217
+MATA4-4(1),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",15,9,2,24,0.63,78,194,6539,159,529,61,217
+MATA4-5(1),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",16,7,2,23,0.7,78,194,6539,159,529,61,217
+MATA4-6(1),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",16,1,10,17,0.94,78,194,6539,159,529,61,217
+MATA4-7(1),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",13,7,6,20,0.65,78,194,6539,159,529,61,217
+MATA4-8(1),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",18,0,9,18,1,78,194,6539,159,529,61,217
+MATA5-1(1),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",25,0,0,25,1,160,180,7506,247,240,74,112
+MATA5-2(1),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",25,0,1,25,1,160,180,7506,247,240,74,112
+MATA5-3(1),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",21,0,4,21,1,160,180,7506,247,240,74,112
+MATA5-4(1),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",24,0,1,24,1,160,180,7506,247,240,74,112
+MATA5-5(1),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",23,0,2,23,1,160,180,7506,247,240,74,112
+MATA5-6(1),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",24,0,1,24,1,160,180,7506,247,240,74,112
+MATA5-7(1),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",24,0,2,24,1,160,180,7506,247,240,74,112
+MATA5-8(1),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",24,0,2,24,1,160,180,7506,247,240,74,112
+MATA1-1(2),Machaeranthera_tanacetifolia,UT1,Grand,UT,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",6,9,10,15,0.4,112,166,9811,183,210,24,54
+MATA1-2(2),Machaeranthera_tanacetifolia,UT1,Grand,UT,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",8,12,5,20,0.4,112,166,9811,183,210,24,54
+MATA1-3(2),Machaeranthera_tanacetifolia,UT1,Grand,UT,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",12,6,7,18,0.67,112,166,9811,183,210,24,54
+MATA1-4(2),Machaeranthera_tanacetifolia,UT1,Grand,UT,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",13,12,0,25,0.52,112,166,9811,183,210,24,54
+MATA1-5(2),Machaeranthera_tanacetifolia,UT1,Grand,UT,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",16,6,3,22,0.73,112,166,9811,183,210,24,54
+MATA1-6(2),Machaeranthera_tanacetifolia,UT1,Grand,UT,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",18,6,1,24,0.75,112,166,9811,183,210,24,54
+MATA1-7(2),Machaeranthera_tanacetifolia,UT1,Grand,UT,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",12,7,6,19,0.63,112,166,9811,183,210,24,54
+MATA1-8(2),Machaeranthera_tanacetifolia,UT1,Grand,UT,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",6,6,13,12,0.5,112,166,9811,183,210,24,54
+MATA2-1(2),Machaeranthera_tanacetifolia,UT2,Garfield,UT,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",12,8,5,20,0.6,116,155,9216,226,177,34,56
+MATA2-2(2),Machaeranthera_tanacetifolia,UT2,Garfield,UT,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",15,5,5,20,0.75,116,155,9216,226,177,34,56
+MATA2-3(2),Machaeranthera_tanacetifolia,UT2,Garfield,UT,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",11,9,5,20,0.55,116,155,9216,226,177,34,56
+MATA2-4(2),Machaeranthera_tanacetifolia,UT2,Garfield,UT,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",8,7,10,15,0.53,116,155,9216,226,177,34,56
+MATA2-5(2),Machaeranthera_tanacetifolia,UT2,Garfield,UT,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",12,3,10,15,0.8,116,155,9216,226,177,34,56
+MATA2-6(2),Machaeranthera_tanacetifolia,UT2,Garfield,UT,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",10,7,8,17,0.59,116,155,9216,226,177,34,56
+MATA2-7(2),Machaeranthera_tanacetifolia,UT2,Garfield,UT,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",10,6,9,16,0.63,116,155,9216,226,177,34,56
+MATA2-8(2),Machaeranthera_tanacetifolia,UT2,Garfield,UT,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",11,4,10,15,0.73,116,155,9216,226,177,34,56
+MATA4-1(2),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",12,13,0,25,0.48,78,194,6539,159,529,61,217
+MATA4-2(2),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",19,6,1,25,0.76,78,194,6539,159,529,61,217
+MATA4-3(2),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",13,7,5,20,0.65,78,194,6539,159,529,61,217
+MATA4-4(2),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",15,3,7,18,0.83,78,194,6539,159,529,61,217
+MATA4-5(2),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",10,11,4,21,0.48,78,194,6539,159,529,61,217
+MATA4-6(2),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",14,10,1,24,0.58,78,194,6539,159,529,61,217
+MATA4-7(2),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",9,16,0,25,0.36,78,194,6539,159,529,61,217
+MATA4-8(2),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",12,11,2,23,0.52,78,194,6539,159,529,61,217
+MATA5-1(2),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",23,0,2,23,1,160,180,7506,247,240,74,112
+MATA5-2(2),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",23,1,1,24,0.96,160,180,7506,247,240,74,112
+MATA5-3(2),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",24,1,0,25,0.96,160,180,7506,247,240,74,112
+MATA5-4(2),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",21,0,3,21,1,160,180,7506,247,240,74,112
+MATA5-5(2),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",23,1,2,24,0.96,160,180,7506,247,240,74,112
+MATA5-6(2),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",23,1,1,24,0.96,160,180,7506,247,240,74,112
+MATA5-7(2),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",24,0,1,24,1,160,180,7506,247,240,74,112
+MATA5-8(2),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",23,0,4,23,1,160,180,7506,247,240,74,112
+MATA1-1(3),Machaeranthera_tanacetifolia,UT1,Grand,UT,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",15,2,8,17,0.88,112,166,9811,183,210,24,54
+MATA1-2(3),Machaeranthera_tanacetifolia,UT1,Grand,UT,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",18,2,5,20,0.9,112,166,9811,183,210,24,54
+MATA1-3(3),Machaeranthera_tanacetifolia,UT1,Grand,UT,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",18,1,6,19,0.95,112,166,9811,183,210,24,54
+MATA1-4(3),Machaeranthera_tanacetifolia,UT1,Grand,UT,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",13,2,10,15,0.87,112,166,9811,183,210,24,54
+MATA1-5(3),Machaeranthera_tanacetifolia,UT1,Grand,UT,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",17,2,6,19,0.89,112,166,9811,183,210,24,54
+MATA1-6(3),Machaeranthera_tanacetifolia,UT1,Grand,UT,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",13,3,9,16,0.81,112,166,9811,183,210,24,54
+MATA1-7(3),Machaeranthera_tanacetifolia,UT1,Grand,UT,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",16,3,6,19,0.84,112,166,9811,183,210,24,54
+MATA1-8(3),Machaeranthera_tanacetifolia,UT1,Grand,UT,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",17,3,5,20,0.85,112,166,9811,183,210,24,54
+MATA2-1(3),Machaeranthera_tanacetifolia,UT2,Garfield,UT,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",4,10,11,14,0.29,116,155,9216,226,177,34,56
+MATA2-2(3),Machaeranthera_tanacetifolia,UT2,Garfield,UT,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",8,11,6,19,0.42,116,155,9216,226,177,34,56
+MATA2-3(3),Machaeranthera_tanacetifolia,UT2,Garfield,UT,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",9,5,11,14,0.64,116,155,9216,226,177,34,56
+MATA2-4(3),Machaeranthera_tanacetifolia,UT2,Garfield,UT,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",13,7,5,20,0.65,116,155,9216,226,177,34,56
+MATA2-5(3),Machaeranthera_tanacetifolia,UT2,Garfield,UT,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",7,6,12,13,0.54,116,155,9216,226,177,34,56
+MATA2-6(3),Machaeranthera_tanacetifolia,UT2,Garfield,UT,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",8,4,13,12,0.67,116,155,9216,226,177,34,56
+MATA2-7(3),Machaeranthera_tanacetifolia,UT2,Garfield,UT,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",7,10,8,17,0.41,116,155,9216,226,177,34,56
+MATA2-8(3),Machaeranthera_tanacetifolia,UT2,Garfield,UT,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",4,3,18,7,0.57,116,155,9216,226,177,34,56
+MATA4-1(3),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",10,8,7,18,0.56,78,194,6539,159,529,61,217
+MATA4-2(3),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",12,9,4,21,0.57,78,194,6539,159,529,61,217
+MATA4-3(3),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",8,7,10,15,0.53,78,194,6539,159,529,61,217
+MATA4-4(3),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",11,8,6,19,0.58,78,194,6539,159,529,61,217
+MATA4-5(3),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",4,16,5,20,0.2,78,194,6539,159,529,61,217
+MATA4-6(3),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",4,16,5,20,0.2,78,194,6539,159,529,61,217
+MATA4-7(3),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",2,20,4,22,0.09,78,194,6539,159,529,61,217
+MATA4-8(3),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",2,18,5,20,0.1,78,194,6539,159,529,61,217
+MATA5-1(3),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",21,2,2,23,0.91,160,180,7506,247,240,74,112
+MATA5-2(3),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",22,0,2,22,1,160,180,7506,247,240,74,112
+MATA5-3(3),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",21,0,4,21,1,160,180,7506,247,240,74,112
+MATA5-4(3),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",23,0,3,23,1,160,180,7506,247,240,74,112
+MATA5-5(3),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",20,5,0,25,0.8,160,180,7506,247,240,74,112
+MATA5-6(3),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",18,4,2,22,0.82,160,180,7506,247,240,74,112
+MATA5-7(3),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",19,2,4,21,0.9,160,180,7506,247,240,74,112
+MATA5-8(3),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",21,3,1,24,0.88,160,180,7506,247,240,74,112
+MATA1-1(4),Machaeranthera_tanacetifolia,UT1,Grand,UT,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",14,7,4,21,0.67,112,166,9811,183,210,24,54
+MATA1-2(4),Machaeranthera_tanacetifolia,UT1,Grand,UT,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",17,4,4,21,0.81,112,166,9811,183,210,24,54
+MATA1-3(4),Machaeranthera_tanacetifolia,UT1,Grand,UT,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",16,9,0,25,0.64,112,166,9811,183,210,24,54
+MATA1-4(4),Machaeranthera_tanacetifolia,UT1,Grand,UT,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",21,4,0,25,0.84,112,166,9811,183,210,24,54
+MATA1-5(4),Machaeranthera_tanacetifolia,UT1,Grand,UT,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",21,1,3,22,0.95,112,166,9811,183,210,24,54
+MATA1-6(4),Machaeranthera_tanacetifolia,UT1,Grand,UT,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",19,1,5,20,0.95,112,166,9811,183,210,24,54
+MATA1-7(4),Machaeranthera_tanacetifolia,UT1,Grand,UT,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",20,4,1,24,0.83,112,166,9811,183,210,24,54
+MATA1-8(4),Machaeranthera_tanacetifolia,UT1,Grand,UT,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",20,4,2,24,0.83,112,166,9811,183,210,24,54
+MATA2-1(4),Machaeranthera_tanacetifolia,UT2,Garfield,UT,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",11,8,6,19,0.58,116,155,9216,226,177,34,56
+MATA2-2(4),Machaeranthera_tanacetifolia,UT2,Garfield,UT,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",13,4,8,17,0.76,116,155,9216,226,177,34,56
+MATA2-3(4),Machaeranthera_tanacetifolia,UT2,Garfield,UT,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",20,2,3,22,0.91,116,155,9216,226,177,34,56
+MATA2-4(4),Machaeranthera_tanacetifolia,UT2,Garfield,UT,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",16,5,4,21,0.76,116,155,9216,226,177,34,56
+MATA2-5(4),Machaeranthera_tanacetifolia,UT2,Garfield,UT,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",15,1,9,16,0.94,116,155,9216,226,177,34,56
+MATA2-6(4),Machaeranthera_tanacetifolia,UT2,Garfield,UT,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",20,0,5,20,1,116,155,9216,226,177,34,56
+MATA2-7(4),Machaeranthera_tanacetifolia,UT2,Garfield,UT,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",17,0,8,17,1,116,155,9216,226,177,34,56
+MATA2-8(4),Machaeranthera_tanacetifolia,UT2,Garfield,UT,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",13,4,8,17,0.76,116,155,9216,226,177,34,56
+MATA4-1(4),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",16,8,1,24,0.67,78,194,6539,159,529,61,217
+MATA4-2(4),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",20,3,2,23,0.87,78,194,6539,159,529,61,217
+MATA4-3(4),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",13,9,3,22,0.59,78,194,6539,159,529,61,217
+MATA4-4(4),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",16,8,2,24,0.67,78,194,6539,159,529,61,217
+MATA4-5(4),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",13,7,5,20,0.65,78,194,6539,159,529,61,217
+MATA4-6(4),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",10,5,10,15,0.67,78,194,6539,159,529,61,217
+MATA4-7(4),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",16,8,1,24,0.67,78,194,6539,159,529,61,217
+MATA4-8(4),Machaeranthera_tanacetifolia,NM1,Pleasanton,NM,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",14,8,3,22,0.64,78,194,6539,159,529,61,217
+MATA5-1(4),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",24,1,0,25,0.96,160,180,7506,247,240,74,112
+MATA5-2(4),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",23,0,1,23,1,160,180,7506,247,240,74,112
+MATA5-3(4),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",24,1,0,25,0.96,160,180,7506,247,240,74,112
+MATA5-4(4),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",23,0,1,23,1,160,180,7506,247,240,74,112
+MATA5-5(4),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",19,4,2,23,0.83,160,180,7506,247,240,74,112
+MATA5-6(4),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",25,0,0,25,1,160,180,7506,247,240,74,112
+MATA5-7(4),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",22,3,0,25,0.88,160,180,7506,247,240,74,112
+MATA5-8(4),Machaeranthera_tanacetifolia,NM2,Las Cruces,NM,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",15,1,9,16,0.94,160,180,7506,247,240,74,112
+MACA1-1(1),Dieteria_canescens,UT1,San Juan,UT,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",20,2,3,22,0.91,93,149,8889,159,322,23,82
+MACA1-2(1),Dieteria_canescens,UT1,San Juan,UT,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",18,5,2,23,0.78,93,149,8889,159,322,23,82
+MACA1-3(1),Dieteria_canescens,UT1,San Juan,UT,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",1,1,0,2,0.5,93,149,8889,159,322,23,82
+MACA1-4(1),Dieteria_canescens,UT1,San Juan,UT,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",20,4,1,24,0.83,93,149,8889,159,322,23,82
+MACA1-5(1),Dieteria_canescens,UT1,San Juan,UT,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",19,0,7,19,1,93,149,8889,159,322,23,82
+MACA1-6(1),Dieteria_canescens,UT1,San Juan,UT,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",22,1,2,23,0.96,93,149,8889,159,322,23,82
+MACA1-7(1),Dieteria_canescens,UT1,San Juan,UT,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",20,0,5,20,1,93,149,8889,159,322,23,82
+MACA1-8(1),Dieteria_canescens,UT1,San Juan,UT,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",22,0,3,22,1,93,149,8889,159,322,23,82
+MACA2-1(1),Dieteria_canescens,UT2,Escalante,UT,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",22,1,2,23,0.96,41,173,7758,139,381,22,107
+MACA2-2(1),Dieteria_canescens,UT2,Escalante,UT,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",17,7,1,24,0.71,41,173,7758,139,381,22,107
+MACA2-3(1),Dieteria_canescens,UT2,Escalante,UT,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",22,2,1,24,0.92,41,173,7758,139,381,22,107
+MACA2-4(1),Dieteria_canescens,UT2,Escalante,UT,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",21,0,4,21,1,41,173,7758,139,381,22,107
+MACA2-5(1),Dieteria_canescens,UT2,Escalante,UT,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",23,0,6,23,1,41,173,7758,139,381,22,107
+MACA2-6(1),Dieteria_canescens,UT2,Escalante,UT,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",24,0,3,24,1,41,173,7758,139,381,22,107
+MACA2-7(1),Dieteria_canescens,UT2,Escalante,UT,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",21,1,6,22,0.95,41,173,7758,139,381,22,107
+MACA2-8(1),Dieteria_canescens,UT2,Escalante,UT,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",25,0,2,25,1,41,173,7758,139,381,22,107
+MACA3-1(1),Dieteria_canescens,AZ,Flagstaff,AZ,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",17,2,6,19,0.89,76,165,7062,166,564,37,159
+MACA3-2(1),Dieteria_canescens,AZ,Flagstaff,AZ,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",24,0,1,24,1,76,165,7062,166,564,37,159
+MACA3-3(1),Dieteria_canescens,AZ,Flagstaff,AZ,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",23,1,1,24,0.96,76,165,7062,166,564,37,159
+MACA3-4(1),Dieteria_canescens,AZ,Flagstaff,AZ,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",24,1,1,25,0.96,76,165,7062,166,564,37,159
+MACA3-5(1),Dieteria_canescens,AZ,Flagstaff,AZ,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",25,0,0,25,0.96,76,165,7062,166,564,37,159
+MACA3-6(1),Dieteria_canescens,AZ,Flagstaff,AZ,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",24,0,4,24,1,76,165,7062,166,564,37,159
+MACA3-7(1),Dieteria_canescens,AZ,Flagstaff,AZ,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",25,0,7,25,1,76,165,7062,166,564,37,159
+MACA3-8(1),Dieteria_canescens,AZ,Flagstaff,AZ,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",24,0,2,24,1,76,165,7062,166,564,37,159
+MACA5-1(1),Dieteria_canescens,NM,Mogollon,NM,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",23,0,1,23,1,93,202,6742,176,483,60,194
+MACA5-2(1),Dieteria_canescens,NM,Mogollon,NM,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",25,0,0,25,1,93,202,6742,176,483,60,194
+MACA5-3(1),Dieteria_canescens,NM,Mogollon,NM,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",25,0,0,25,1,93,202,6742,176,483,60,194
+MACA5-4(1),Dieteria_canescens,NM,Mogollon,NM,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",25,0,0,25,1,93,202,6742,176,483,60,194
+MACA5-5(1),Dieteria_canescens,NM,Mogollon,NM,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",25,0,0,25,1,93,202,6742,176,483,60,194
+MACA5-6(1),Dieteria_canescens,NM,Mogollon,NM,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",25,0,0,25,1,93,202,6742,176,483,60,194
+MACA5-7(1),Dieteria_canescens,NM,Mogollon,NM,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",25,0,0,25,1,93,202,6742,176,483,60,194
+MACA5-8(1),Dieteria_canescens,NM,Mogollon,NM,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",24,0,0,24,1,93,202,6742,176,483,60,194
+MACA1-1(2),Dieteria_canescens,UT1,San Juan,UT,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",12,8,5,20,0.6,93,149,8889,159,322,23,82
+MACA1-2(2),Dieteria_canescens,UT1,San Juan,UT,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",11,10,4,21,0.52,93,149,8889,159,322,23,82
+MACA1-3(2),Dieteria_canescens,UT1,San Juan,UT,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",15,7,3,22,0.68,93,149,8889,159,322,23,82
+MACA1-4(2),Dieteria_canescens,UT1,San Juan,UT,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",13,9,3,22,0.59,93,149,8889,159,322,23,82
+MACA1-5(2),Dieteria_canescens,UT1,San Juan,UT,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",17,3,5,20,0.85,93,149,8889,159,322,23,82
+MACA1-6(2),Dieteria_canescens,UT1,San Juan,UT,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",16,4,5,20,0.8,93,149,8889,159,322,23,82
+MACA1-7(2),Dieteria_canescens,UT1,San Juan,UT,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",23,0,3,23,1,93,149,8889,159,322,23,82
+MACA1-8(2),Dieteria_canescens,UT1,San Juan,UT,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",18,3,5,21,0.86,93,149,8889,159,322,23,82
+MACA2-1(2),Dieteria_canescens,UT2,Escalante,UT,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",17,5,3,22,0.77,41,173,7758,139,381,22,107
+MACA2-2(2),Dieteria_canescens,UT2,Escalante,UT,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",15,6,4,21,0.71,41,173,7758,139,381,22,107
+MACA2-3(2),Dieteria_canescens,UT2,Escalante,UT,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",19,4,2,23,0.83,41,173,7758,139,381,22,107
+MACA2-4(2),Dieteria_canescens,UT2,Escalante,UT,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",16,3,6,19,0.84,41,173,7758,139,381,22,107
+MACA2-5(2),Dieteria_canescens,UT2,Escalante,UT,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",20,2,3,22,0.91,41,173,7758,139,381,22,107
+MACA2-6(2),Dieteria_canescens,UT2,Escalante,UT,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",21,3,1,24,0.88,41,173,7758,139,381,22,107
+MACA2-7(2),Dieteria_canescens,UT2,Escalante,UT,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",22,0,4,22,1,41,173,7758,139,381,22,107
+MACA2-8(2),Dieteria_canescens,UT2,Escalante,UT,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",21,0,6,21,1,41,173,7758,139,381,22,107
+MACA3-1(2),Dieteria_canescens,AZ,Flagstaff,AZ,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",14,7,4,21,0.67,76,165,7062,166,564,37,159
+MACA3-2(2),Dieteria_canescens,AZ,Flagstaff,AZ,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",16,6,3,22,0.73,76,165,7062,166,564,37,159
+MACA3-3(2),Dieteria_canescens,AZ,Flagstaff,AZ,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",22,0,3,22,1,76,165,7062,166,564,37,159
+MACA3-4(2),Dieteria_canescens,AZ,Flagstaff,AZ,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",22,1,2,23,0.96,76,165,7062,166,564,37,159
+MACA3-5(2),Dieteria_canescens,AZ,Flagstaff,AZ,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",23,0,3,23,1,76,165,7062,166,564,37,159
+MACA3-6(2),Dieteria_canescens,AZ,Flagstaff,AZ,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",23,1,3,24,0.96,76,165,7062,166,564,37,159
+MACA3-7(2),Dieteria_canescens,AZ,Flagstaff,AZ,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",18,4,3,22,0.82,76,165,7062,166,564,37,159
+MACA3-8(2),Dieteria_canescens,AZ,Flagstaff,AZ,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",23,0,3,23,1,76,165,7062,166,564,37,159
+MACA5-1(2),Dieteria_canescens,NM,Mogollon,NM,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",24,1,0,25,0.96,93,202,6742,176,483,60,194
+MACA5-2(2),Dieteria_canescens,NM,Mogollon,NM,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",25,0,0,25,1,93,202,6742,176,483,60,194
+MACA5-3(2),Dieteria_canescens,NM,Mogollon,NM,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",25,0,0,25,1,93,202,6742,176,483,60,194
+MACA5-4(2),Dieteria_canescens,NM,Mogollon,NM,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",23,2,0,25,0.92,93,202,6742,176,483,60,194
+MACA5-5(2),Dieteria_canescens,NM,Mogollon,NM,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",23,0,2,23,1,93,202,6742,176,483,60,194
+MACA5-6(2),Dieteria_canescens,NM,Mogollon,NM,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",24,0,1,24,1,93,202,6742,176,483,60,194
+MACA5-7(2),Dieteria_canescens,NM,Mogollon,NM,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",24,1,1,25,0.96,93,202,6742,176,483,60,194
+MACA5-8(2),Dieteria_canescens,NM,Mogollon,NM,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",25,0,0,25,1,93,202,6742,176,483,60,194
+MACA1-1(3),Dieteria_canescens,UT1,San Juan,UT,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",14,9,3,23,0.61,93,149,8889,159,322,23,82
+MACA1-2(3),Dieteria_canescens,UT1,San Juan,UT,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",18,6,1,24,0.75,93,149,8889,159,322,23,82
+MACA1-3(3),Dieteria_canescens,UT1,San Juan,UT,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",7,18,0,25,0.28,93,149,8889,159,322,23,82
+MACA1-4(3),Dieteria_canescens,UT1,San Juan,UT,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",19,1,5,20,0.95,93,149,8889,159,322,23,82
+MACA1-5(3),Dieteria_canescens,UT1,San Juan,UT,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",11,3,10,14,0.79,93,149,8889,159,322,23,82
+MACA1-6(3),Dieteria_canescens,UT1,San Juan,UT,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",17,1,7,18,0.94,93,149,8889,159,322,23,82
+MACA1-7(3),Dieteria_canescens,UT1,San Juan,UT,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",18,2,7,20,0.9,93,149,8889,159,322,23,82
+MACA1-8(3),Dieteria_canescens,UT1,San Juan,UT,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",13,2,10,15,0.87,93,149,8889,159,322,23,82
+MACA2-1(3),Dieteria_canescens,UT2,Escalante,UT,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",17,0,8,17,1,41,173,7758,139,381,22,107
+MACA2-2(3),Dieteria_canescens,UT2,Escalante,UT,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",17,5,4,22,0.77,41,173,7758,139,381,22,107
+MACA2-3(3),Dieteria_canescens,UT2,Escalante,UT,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",15,5,5,20,0.75,41,173,7758,139,381,22,107
+MACA2-4(3),Dieteria_canescens,UT2,Escalante,UT,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",18,6,3,24,0.75,41,173,7758,139,381,22,107
+MACA2-5(3),Dieteria_canescens,UT2,Escalante,UT,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",16,7,2,23,0.7,41,173,7758,139,381,22,107
+MACA2-6(3),Dieteria_canescens,UT2,Escalante,UT,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",17,8,0,25,0.65,41,173,7758,139,381,22,107
+MACA2-7(3),Dieteria_canescens,UT2,Escalante,UT,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",15,7,3,22,0.68,41,173,7758,139,381,22,107
+MACA2-8(3),Dieteria_canescens,UT2,Escalante,UT,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",12,12,1,24,0.5,41,173,7758,139,381,22,107
+MACA3-1(3),Dieteria_canescens,AZ,Flagstaff,AZ,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",15,1,9,16,0.94,76,165,7062,166,564,37,159
+MACA3-2(3),Dieteria_canescens,AZ,Flagstaff,AZ,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",16,3,6,19,0.84,76,165,7062,166,564,37,159
+MACA3-3(3),Dieteria_canescens,AZ,Flagstaff,AZ,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",16,0,9,16,1,76,165,7062,166,564,37,159
+MACA3-4(3),Dieteria_canescens,AZ,Flagstaff,AZ,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",14,1,9,15,0.93,76,165,7062,166,564,37,159
+MACA3-5(3),Dieteria_canescens,AZ,Flagstaff,AZ,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",18,3,4,21,0.86,76,165,7062,166,564,37,159
+MACA3-6(3),Dieteria_canescens,AZ,Flagstaff,AZ,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",14,7,3,21,0.67,76,165,7062,166,564,37,159
+MACA3-7(3),Dieteria_canescens,AZ,Flagstaff,AZ,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",12,8,4,20,0.6,76,165,7062,166,564,37,159
+MACA3-8(3),Dieteria_canescens,AZ,Flagstaff,AZ,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",14,9,2,23,0.61,76,165,7062,166,564,37,159
+MACA5-1(3),Dieteria_canescens,NM,Mogollon,NM,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",15,0,10,15,1,93,202,6742,176,483,60,194
+MACA5-2(3),Dieteria_canescens,NM,Mogollon,NM,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",16,1,7,17,0.94,93,202,6742,176,483,60,194
+MACA5-3(3),Dieteria_canescens,NM,Mogollon,NM,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",19,2,3,21,0.9,93,202,6742,176,483,60,194
+MACA5-4(3),Dieteria_canescens,NM,Mogollon,NM,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",16,3,6,19,0.84,93,202,6742,176,483,60,194
+MACA5-5(3),Dieteria_canescens,NM,Mogollon,NM,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",12,1,12,13,0.92,93,202,6742,176,483,60,194
+MACA5-6(3),Dieteria_canescens,NM,Mogollon,NM,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",19,5,1,24,0.79,93,202,6742,176,483,60,194
+MACA5-7(3),Dieteria_canescens,NM,Mogollon,NM,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",13,6,6,19,0.68,93,202,6742,176,483,60,194
+MACA5-8(3),Dieteria_canescens,NM,Mogollon,NM,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",16,2,7,18,0.89,93,202,6742,176,483,60,194
+MACA1-1(4),Dieteria_canescens,UT1,San Juan,UT,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",15,7,1,22,0.68,93,149,8889,159,322,23,82
+MACA1-2(4),Dieteria_canescens,UT1,San Juan,UT,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",11,12,2,23,0.48,93,149,8889,159,322,23,82
+MACA1-3(4),Dieteria_canescens,UT1,San Juan,UT,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",18,6,1,24,0.75,93,149,8889,159,322,23,82
+MACA1-4(4),Dieteria_canescens,UT1,San Juan,UT,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",17,4,6,21,0.81,93,149,8889,159,322,23,82
+MACA1-5(4),Dieteria_canescens,UT1,San Juan,UT,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",23,1,1,24,0.96,93,149,8889,159,322,23,82
+MACA1-6(4),Dieteria_canescens,UT1,San Juan,UT,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",22,1,2,23,0.96,93,149,8889,159,322,23,82
+MACA1-7(4),Dieteria_canescens,UT1,San Juan,UT,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",24,0,1,24,1,93,149,8889,159,322,23,82
+MACA1-8(4),Dieteria_canescens,UT1,San Juan,UT,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",21,2,2,23,0.91,93,149,8889,159,322,23,82
+MACA2-1(4),Dieteria_canescens,UT2,Escalante,UT,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",18,2,5,20,0.9,41,173,7758,139,381,22,107
+MACA2-2(4),Dieteria_canescens,UT2,Escalante,UT,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",14,11,0,25,0.54,41,173,7758,139,381,22,107
+MACA2-3(4),Dieteria_canescens,UT2,Escalante,UT,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",21,3,1,24,0.88,41,173,7758,139,381,22,107
+MACA2-4(4),Dieteria_canescens,UT2,Escalante,UT,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",18,0,7,18,1,41,173,7758,139,381,22,107
+MACA2-5(4),Dieteria_canescens,UT2,Escalante,UT,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",15,10,0,25,0.6,41,173,7758,139,381,22,107
+MACA2-6(4),Dieteria_canescens,UT2,Escalante,UT,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",21,2,3,23,0.91,41,173,7758,139,381,22,107
+MACA2-7(4),Dieteria_canescens,UT2,Escalante,UT,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",13,7,5,20,0.65,41,173,7758,139,381,22,107
+MACA2-8(4),Dieteria_canescens,UT2,Escalante,UT,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",17,5,3,22,0.77,41,173,7758,139,381,22,107
+MACA3-1(4),Dieteria_canescens,AZ,Flagstaff,AZ,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",19,2,5,21,0.9,76,165,7062,166,564,37,159
+MACA3-2(4),Dieteria_canescens,AZ,Flagstaff,AZ,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",18,1,6,19,0.95,76,165,7062,166,564,37,159
+MACA3-3(4),Dieteria_canescens,AZ,Flagstaff,AZ,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",17,6,2,23,0.74,76,165,7062,166,564,37,159
+MACA3-4(4),Dieteria_canescens,AZ,Flagstaff,AZ,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",12,4,9,16,0.75,76,165,7062,166,564,37,159
+MACA3-5(4),Dieteria_canescens,AZ,Flagstaff,AZ,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",18,4,3,22,0.82,76,165,7062,166,564,37,159
+MACA3-6(4),Dieteria_canescens,AZ,Flagstaff,AZ,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",19,5,1,24,0.79,76,165,7062,166,564,37,159
+MACA3-7(4),Dieteria_canescens,AZ,Flagstaff,AZ,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",21,1,3,22,0.95,76,165,7062,166,564,37,159
+MACA3-8(4),Dieteria_canescens,AZ,Flagstaff,AZ,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",17,4,4,21,0.81,76,165,7062,166,564,37,159
+MACA5-1(4),Dieteria_canescens,NM,Mogollon,NM,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",24,0,1,24,1,93,202,6742,176,483,60,194
+MACA5-2(4),Dieteria_canescens,NM,Mogollon,NM,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",24,0,1,24,1,93,202,6742,176,483,60,194
+MACA5-3(4),Dieteria_canescens,NM,Mogollon,NM,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",22,0,3,22,1,93,202,6742,176,483,60,194
+MACA5-4(4),Dieteria_canescens,NM,Mogollon,NM,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",25,0,0,25,1,93,202,6742,176,483,60,194
+MACA5-5(4),Dieteria_canescens,NM,Mogollon,NM,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",22,1,2,23,0.96,93,202,6742,176,483,60,194
+MACA5-6(4),Dieteria_canescens,NM,Mogollon,NM,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",24,0,1,24,1,93,202,6742,176,483,60,194
+MACA5-7(4),Dieteria_canescens,NM,Mogollon,NM,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",23,0,2,23,1,93,202,6742,176,483,60,194
+MACA5-8(4),Dieteria_canescens,NM,Mogollon,NM,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",21,0,4,21,1,93,202,6742,176,483,60,194
+HEVI1-1(1),Heterotheca_villosa,UT,Rio Mesa,UT,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",18,1,6,19,0.95,113,157,9294,180,267,20,65
+HEVI1-2(1),Heterotheca_villosa,UT,Rio Mesa,UT,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",22,0,3,22,1,113,157,9294,180,267,20,65
+HEVI1-3(1),Heterotheca_villosa,UT,Rio Mesa,UT,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",15,1,9,16,0.94,113,157,9294,180,267,20,65
+HEVI1-4(1),Heterotheca_villosa,UT,Rio Mesa,UT,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",24,0,3,24,1,113,157,9294,180,267,20,65
+HEVI1-5(1),Heterotheca_villosa,UT,Rio Mesa,UT,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",20,2,4,22,0.91,113,157,9294,180,267,20,65
+HEVI1-6(1),Heterotheca_villosa,UT,Rio Mesa,UT,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",19,2,3,21,0.9,113,157,9294,180,267,20,65
+HEVI1-7(1),Heterotheca_villosa,UT,Rio Mesa,UT,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",18,4,3,22,0.82,113,157,9294,180,267,20,65
+HEVI1-8(1),Heterotheca_villosa,UT,Rio Mesa,UT,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",23,1,1,24,0.96,113,157,9294,180,267,20,65
+HEVI2-1(1),Heterotheca_villosa,AZ,Flagstaff,AZ,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",18,1,7,19,0.95,62,159,6985,150,540,37,158
+HEVI2-2(1),Heterotheca_villosa,AZ,Flagstaff,AZ,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",21,3,1,24,0.88,62,159,6985,150,540,37,158
+HEVI2-3(1),Heterotheca_villosa,AZ,Flagstaff,AZ,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",22,1,2,23,0.96,62,159,6985,150,540,37,158
+HEVI2-4(1),Heterotheca_villosa,AZ,Flagstaff,AZ,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",21,1,3,22,0.95,62,159,6985,150,540,37,158
+HEVI2-5(1),Heterotheca_villosa,AZ,Flagstaff,AZ,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",13,1,10,14,0.93,62,159,6985,150,540,37,158
+HEVI2-6(1),Heterotheca_villosa,AZ,Flagstaff,AZ,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",21,2,2,23,0.91,62,159,6985,150,540,37,158
+HEVI2-7(1),Heterotheca_villosa,AZ,Flagstaff,AZ,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",21,1,4,22,0.95,62,159,6985,150,540,37,158
+HEVI2-8(1),Heterotheca_villosa,AZ,Flagstaff,AZ,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",20,1,3,21,0.95,62,159,6985,150,540,37,158
+HEVI3-1(1),Heterotheca_villosa,NM,Salinas,NM,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",14,0,11,14,1,88,152,6604,165,506,70,240
+HEVI3-2(1),Heterotheca_villosa,NM,Salinas,NM,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",5,0,19,5,1,88,152,6604,165,506,70,240
+HEVI3-3(1),Heterotheca_villosa,NM,Salinas,NM,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",8,0,17,8,1,88,152,6604,165,506,70,240
+HEVI3-4(1),Heterotheca_villosa,NM,Salinas,NM,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",9,0,16,9,1,88,152,6604,165,506,70,240
+HEVI3-5(1),Heterotheca_villosa,NM,Salinas,NM,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",8,0,17,8,1,88,152,6604,165,506,70,240
+HEVI3-6(1),Heterotheca_villosa,NM,Salinas,NM,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",10,0,15,10,1,88,152,6604,165,506,70,240
+HEVI3-7(1),Heterotheca_villosa,NM,Salinas,NM,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",5,1,19,6,0.83,88,152,6604,165,506,70,240
+HEVI3-8(1),Heterotheca_villosa,NM,Salinas,NM,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",4,0,21,4,1,88,152,6604,165,506,70,240
+HEVI1-1(2),Heterotheca_villosa,UT,Rio Mesa,UT,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",23,1,1,24,0.96,113,157,9294,180,267,20,65
+HEVI1-2(2),Heterotheca_villosa,UT,Rio Mesa,UT,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",23,1,1,24,0.96,113,157,9294,180,267,20,65
+HEVI1-3(2),Heterotheca_villosa,UT,Rio Mesa,UT,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",22,1,2,23,0.96,113,157,9294,180,267,20,65
+HEVI1-4(2),Heterotheca_villosa,UT,Rio Mesa,UT,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",18,2,5,20,0.9,113,157,9294,180,267,20,65
+HEVI1-5(2),Heterotheca_villosa,UT,Rio Mesa,UT,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",23,0,3,23,1,113,157,9294,180,267,20,65
+HEVI1-6(2),Heterotheca_villosa,UT,Rio Mesa,UT,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",16,2,7,18,0.89,113,157,9294,180,267,20,65
+HEVI1-7(2),Heterotheca_villosa,UT,Rio Mesa,UT,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",18,0,10,18,1,113,157,9294,180,267,20,65
+HEVI1-8(2),Heterotheca_villosa,UT,Rio Mesa,UT,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",18,0,12,18,1,113,157,9294,180,267,20,65
+HEVI2-1(2),Heterotheca_villosa,AZ,Flagstaff,AZ,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",22,1,2,23,0.96,62,159,6985,150,540,37,158
+HEVI2-2(2),Heterotheca_villosa,AZ,Flagstaff,AZ,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",22,0,3,22,1,62,159,6985,150,540,37,158
+HEVI2-3(2),Heterotheca_villosa,AZ,Flagstaff,AZ,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",23,1,1,24,0.96,62,159,6985,150,540,37,158
+HEVI2-4(2),Heterotheca_villosa,AZ,Flagstaff,AZ,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",21,2,2,23,0.91,62,159,6985,150,540,37,158
+HEVI2-5(2),Heterotheca_villosa,AZ,Flagstaff,AZ,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",21,0,4,21,1,62,159,6985,150,540,37,158
+HEVI2-6(2),Heterotheca_villosa,AZ,Flagstaff,AZ,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",22,1,2,23,0.96,62,159,6985,150,540,37,158
+HEVI2-7(2),Heterotheca_villosa,AZ,Flagstaff,AZ,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",21,2,2,23,0.91,62,159,6985,150,540,37,158
+HEVI2-8(2),Heterotheca_villosa,AZ,Flagstaff,AZ,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",23,1,1,24,0.96,62,159,6985,150,540,37,158
+HEVI3-1(2),Heterotheca_villosa,NM,Salinas,NM,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",13,2,9,15,0.87,88,152,6604,165,506,70,240
+HEVI3-2(2),Heterotheca_villosa,NM,Salinas,NM,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",11,0,14,11,1,88,152,6604,165,506,70,240
+HEVI3-3(2),Heterotheca_villosa,NM,Salinas,NM,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",12,0,13,12,1,88,152,6604,165,506,70,240
+HEVI3-4(2),Heterotheca_villosa,NM,Salinas,NM,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",4,1,20,5,0.8,88,152,6604,165,506,70,240
+HEVI3-5(2),Heterotheca_villosa,NM,Salinas,NM,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",11,2,12,13,0.85,88,152,6604,165,506,70,240
+HEVI3-6(2),Heterotheca_villosa,NM,Salinas,NM,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",6,1,18,7,0.86,88,152,6604,165,506,70,240
+HEVI3-7(2),Heterotheca_villosa,NM,Salinas,NM,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",9,0,17,9,1,88,152,6604,165,506,70,240
+HEVI3-8(2),Heterotheca_villosa,NM,Salinas,NM,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",10,0,15,10,1,88,152,6604,165,506,70,240
+HEVI1-1(3),Heterotheca_villosa,UT,Rio Mesa,UT,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",18,0,7,18,1,113,157,9294,180,267,20,65
+HEVI1-2(3),Heterotheca_villosa,UT,Rio Mesa,UT,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",19,0,6,19,1,113,157,9294,180,267,20,65
+HEVI1-3(3),Heterotheca_villosa,UT,Rio Mesa,UT,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",20,0,5,20,1,113,157,9294,180,267,20,65
+HEVI1-4(3),Heterotheca_villosa,UT,Rio Mesa,UT,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",21,0,4,21,1,113,157,9294,180,267,20,65
+HEVI1-5(3),Heterotheca_villosa,UT,Rio Mesa,UT,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",19,1,5,20,0.95,113,157,9294,180,267,20,65
+HEVI1-6(3),Heterotheca_villosa,UT,Rio Mesa,UT,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",20,2,3,22,0.91,113,157,9294,180,267,20,65
+HEVI1-7(3),Heterotheca_villosa,UT,Rio Mesa,UT,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",19,0,0,19,1,113,157,9294,180,267,20,65
+HEVI1-8(3),Heterotheca_villosa,UT,Rio Mesa,UT,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",17,2,6,19,0.89,113,157,9294,180,267,20,65
+HEVI2-1(3),Heterotheca_villosa,AZ,Flagstaff,AZ,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",23,0,2,23,1,62,159,6985,150,540,37,158
+HEVI2-2(3),Heterotheca_villosa,AZ,Flagstaff,AZ,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",20,0,6,20,1,62,159,6985,150,540,37,158
+HEVI2-3(3),Heterotheca_villosa,AZ,Flagstaff,AZ,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",20,0,6,20,1,62,159,6985,150,540,37,158
+HEVI2-4(3),Heterotheca_villosa,AZ,Flagstaff,AZ,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",22,1,2,23,0.96,62,159,6985,150,540,37,158
+HEVI2-5(3),Heterotheca_villosa,AZ,Flagstaff,AZ,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",18,3,4,21,0.86,62,159,6985,150,540,37,158
+HEVI2-6(3),Heterotheca_villosa,AZ,Flagstaff,AZ,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",18,4,4,22,0.82,62,159,6985,150,540,37,158
+HEVI2-7(3),Heterotheca_villosa,AZ,Flagstaff,AZ,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",18,2,5,20,0.9,62,159,6985,150,540,37,158
+HEVI2-8(3),Heterotheca_villosa,AZ,Flagstaff,AZ,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",18,0,7,18,1,62,159,6985,150,540,37,158
+HEVI3-1(3),Heterotheca_villosa,NM,Salinas,NM,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",15,0,10,15,1,88,152,6604,165,506,70,240
+HEVI3-2(3),Heterotheca_villosa,NM,Salinas,NM,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",8,0,17,8,1,88,152,6604,165,506,70,240
+HEVI3-3(3),Heterotheca_villosa,NM,Salinas,NM,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",15,0,10,15,1,88,152,6604,165,506,70,240
+HEVI3-4(3),Heterotheca_villosa,NM,Salinas,NM,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",13,0,12,13,1,88,152,6604,165,506,70,240
+HEVI3-5(3),Heterotheca_villosa,NM,Salinas,NM,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",13,1,11,14,0.93,88,152,6604,165,506,70,240
+HEVI3-6(3),Heterotheca_villosa,NM,Salinas,NM,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",14,0,11,14,1,88,152,6604,165,506,70,240
+HEVI3-7(3),Heterotheca_villosa,NM,Salinas,NM,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",9,0,16,9,1,88,152,6604,165,506,70,240
+HEVI3-8(3),Heterotheca_villosa,NM,Salinas,NM,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",10,2,13,12,0.83,88,152,6604,165,506,70,240
+HEVI1-1(4),Heterotheca_villosa,UT,Rio Mesa,UT,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",22,3,0,25,0.88,113,157,9294,180,267,20,65
+HEVI1-2(4),Heterotheca_villosa,UT,Rio Mesa,UT,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",21,1,3,22,0.95,113,157,9294,180,267,20,65
+HEVI1-3(4),Heterotheca_villosa,UT,Rio Mesa,UT,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",22,1,3,23,0.96,113,157,9294,180,267,20,65
+HEVI1-4(4),Heterotheca_villosa,UT,Rio Mesa,UT,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",22,1,2,23,0.96,113,157,9294,180,267,20,65
+HEVI1-5(4),Heterotheca_villosa,UT,Rio Mesa,UT,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",20,0,5,20,1,113,157,9294,180,267,20,65
+HEVI1-6(4),Heterotheca_villosa,UT,Rio Mesa,UT,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",19,1,5,20,0.95,113,157,9294,180,267,20,65
+HEVI1-7(4),Heterotheca_villosa,UT,Rio Mesa,UT,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",18,1,6,19,0.95,113,157,9294,180,267,20,65
+HEVI1-8(4),Heterotheca_villosa,UT,Rio Mesa,UT,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",21,1,3,22,0.95,113,157,9294,180,267,20,65
+HEVI2-1(4),Heterotheca_villosa,AZ,Flagstaff,AZ,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",16,2,7,18,0.89,62,159,6985,150,540,37,158
+HEVI2-2(4),Heterotheca_villosa,AZ,Flagstaff,AZ,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",16,3,6,19,0.84,62,159,6985,150,540,37,158
+HEVI2-3(4),Heterotheca_villosa,AZ,Flagstaff,AZ,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",21,0,4,21,1,62,159,6985,150,540,37,158
+HEVI2-4(4),Heterotheca_villosa,AZ,Flagstaff,AZ,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",18,2,5,20,0.9,62,159,6985,150,540,37,158
+HEVI2-5(4),Heterotheca_villosa,AZ,Flagstaff,AZ,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",21,0,4,21,1,62,159,6985,150,540,37,158
+HEVI2-6(4),Heterotheca_villosa,AZ,Flagstaff,AZ,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",20,0,5,20,1,62,159,6985,150,540,37,158
+HEVI2-7(4),Heterotheca_villosa,AZ,Flagstaff,AZ,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",18,2,5,20,0.9,62,159,6985,150,540,37,158
+HEVI2-8(4),Heterotheca_villosa,AZ,Flagstaff,AZ,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",13,4,8,17,0.76,62,159,6985,150,540,37,158
+HEVI3-1(4),Heterotheca_villosa,NM,Salinas,NM,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",9,0,16,9,1,88,152,6604,165,506,70,240
+HEVI3-2(4),Heterotheca_villosa,NM,Salinas,NM,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",10,0,15,10,1,88,152,6604,165,506,70,240
+HEVI3-3(4),Heterotheca_villosa,NM,Salinas,NM,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",7,1,17,8,0.88,88,152,6604,165,506,70,240
+HEVI3-4(4),Heterotheca_villosa,NM,Salinas,NM,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",6,0,19,6,1,88,152,6604,165,506,70,240
+HEVI3-5(4),Heterotheca_villosa,NM,Salinas,NM,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",10,1,14,11,0.91,88,152,6604,165,506,70,240
+HEVI3-6(4),Heterotheca_villosa,NM,Salinas,NM,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",8,0,17,8,1,88,152,6604,165,506,70,240
+HEVI3-7(4),Heterotheca_villosa,NM,Salinas,NM,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",10,0,15,10,1,88,152,6604,165,506,70,240
+HEVI3-8(4),Heterotheca_villosa,NM,Salinas,NM,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",10,0,15,10,1,88,152,6604,165,506,70,240
+PECO1-1(1),Penstemon_comarrhenus,UT1,Kane,UT,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",21,1,3,22,0.95,68,149,8403,171,427,22,109
+PECO1-2(1),Penstemon_comarrhenus,UT1,Kane,UT,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",23,2,0,25,0.92,68,149,8403,171,427,22,109
+PECO1-3(1),Penstemon_comarrhenus,UT1,Kane,UT,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",22,3,0,25,0.88,68,149,8403,171,427,22,109
+PECO1-4(1),Penstemon_comarrhenus,UT1,Kane,UT,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",21,4,0,25,0.84,68,149,8403,171,427,22,109
+PECO1-5(1),Penstemon_comarrhenus,UT1,Kane,UT,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",23,2,0,25,0.92,68,149,8403,171,427,22,109
+PECO1-6(1),Penstemon_comarrhenus,UT1,Kane,UT,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",23,1,1,24,0.96,68,149,8403,171,427,22,109
+PECO1-7(1),Penstemon_comarrhenus,UT1,Kane,UT,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",20,4,1,24,0.83,68,149,8403,171,427,22,109
+PECO1-8(1),Penstemon_comarrhenus,UT1,Kane,UT,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",18,6,2,24,0.75,68,149,8403,171,427,22,109
+PECO2-1(1),Penstemon_comarrhenus,UT2,San Juan,UT,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",10,15,0,25,0.4,93,170,7715,11,390,28,90
+PECO2-2(1),Penstemon_comarrhenus,UT2,San Juan,UT,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",12,13,0,25,0.48,93,170,7715,11,390,28,90
+PECO2-3(1),Penstemon_comarrhenus,UT2,San Juan,UT,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",7,18,0,25,0.28,93,170,7715,11,390,28,90
+PECO2-4(1),Penstemon_comarrhenus,UT2,San Juan,UT,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",13,11,1,24,0.54,93,170,7715,11,390,28,90
+PECO2-5(1),Penstemon_comarrhenus,UT2,San Juan,UT,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",9,16,0,25,0.36,93,170,7715,11,390,28,90
+PECO2-6(1),Penstemon_comarrhenus,UT2,San Juan,UT,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",13,12,0,25,0.52,93,170,7715,11,390,28,90
+PECO2-7(1),Penstemon_comarrhenus,UT2,San Juan,UT,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",9,15,1,24,0.38,93,170,7715,11,390,28,90
+PECO2-8(1),Penstemon_comarrhenus,UT2,San Juan,UT,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",9,16,0,25,0.36,93,170,7715,11,390,28,90
+PECO1-1(2),Penstemon_comarrhenus,UT1,Kane,UT,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",6,19,0,25,0.23,68,149,8403,171,427,22,109
+PECO1-2(2),Penstemon_comarrhenus,UT1,Kane,UT,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",8,17,0,25,0.32,68,149,8403,171,427,22,109
+PECO1-3(2),Penstemon_comarrhenus,UT1,Kane,UT,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",6,18,1,24,0.25,68,149,8403,171,427,22,109
+PECO1-4(2),Penstemon_comarrhenus,UT1,Kane,UT,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",9,12,4,21,0.43,68,149,8403,171,427,22,109
+PECO1-5(2),Penstemon_comarrhenus,UT1,Kane,UT,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",10,13,2,23,0.43,68,149,8403,171,427,22,109
+PECO1-6(2),Penstemon_comarrhenus,UT1,Kane,UT,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",5,17,3,22,0.23,68,149,8403,171,427,22,109
+PECO1-7(2),Penstemon_comarrhenus,UT1,Kane,UT,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",11,13,1,24,0.46,68,149,8403,171,427,22,109
+PECO1-8(2),Penstemon_comarrhenus,UT1,Kane,UT,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",8,15,2,23,0.35,68,149,8403,171,427,22,109
+PECO2-1(2),Penstemon_comarrhenus,UT2,San Juan,UT,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",2,22,1,24,0.08,93,170,7715,11,390,28,90
+PECO2-2(2),Penstemon_comarrhenus,UT2,San Juan,UT,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",8,16,1,24,0.33,93,170,7715,11,390,28,90
+PECO2-3(2),Penstemon_comarrhenus,UT2,San Juan,UT,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",5,20,0,25,0.2,93,170,7715,11,390,28,90
+PECO2-4(2),Penstemon_comarrhenus,UT2,San Juan,UT,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",3,22,0,25,0.12,93,170,7715,11,390,28,90
+PECO2-5(2),Penstemon_comarrhenus,UT2,San Juan,UT,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",6,19,0,25,0.24,93,170,7715,11,390,28,90
+PECO2-6(2),Penstemon_comarrhenus,UT2,San Juan,UT,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",2,22,1,24,0.08,93,170,7715,11,390,28,90
+PECO2-7(2),Penstemon_comarrhenus,UT2,San Juan,UT,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",7,16,2,23,0.3,93,170,7715,11,390,28,90
+PECO2-8(2),Penstemon_comarrhenus,UT2,San Juan,UT,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",6,19,0,25,0.24,93,170,7715,11,390,28,90
+PECO1-1(3),Penstemon_comarrhenus,UT1,Kane,UT,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",8,11,6,19,0.42,68,149,8403,171,427,22,109
+PECO1-2(3),Penstemon_comarrhenus,UT1,Kane,UT,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",6,18,0,24,0.25,68,149,8403,171,427,22,109
+PECO1-3(3),Penstemon_comarrhenus,UT1,Kane,UT,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",14,11,0,25,0.56,68,149,8403,171,427,22,109
+PECO1-4(3),Penstemon_comarrhenus,UT1,Kane,UT,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",12,12,1,24,0.5,68,149,8403,171,427,22,109
+PECO1-5(3),Penstemon_comarrhenus,UT1,Kane,UT,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",5,20,0,25,0.2,68,149,8403,171,427,22,109
+PECO1-6(3),Penstemon_comarrhenus,UT1,Kane,UT,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",5,20,0,25,0.2,68,149,8403,171,427,22,109
+PECO1-7(3),Penstemon_comarrhenus,UT1,Kane,UT,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",4,21,0,25,0.16,68,149,8403,171,427,22,109
+PECO1-8(3),Penstemon_comarrhenus,UT1,Kane,UT,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",5,20,0,25,0.2,68,149,8403,171,427,22,109
+PECO2-1(3),Penstemon_comarrhenus,UT2,San Juan,UT,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",8,16,1,24,0.33,93,170,7715,11,390,28,90
+PECO2-2(3),Penstemon_comarrhenus,UT2,San Juan,UT,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",8,17,0,25,0.32,93,170,7715,11,390,28,90
+PECO2-3(3),Penstemon_comarrhenus,UT2,San Juan,UT,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",7,17,1,24,0.29,93,170,7715,11,390,28,90
+PECO2-4(3),Penstemon_comarrhenus,UT2,San Juan,UT,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",10,14,1,24,0.42,93,170,7715,11,390,28,90
+PECO2-5(3),Penstemon_comarrhenus,UT2,San Juan,UT,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",5,19,1,24,0.21,93,170,7715,11,390,28,90
+PECO2-6(3),Penstemon_comarrhenus,UT2,San Juan,UT,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",7,16,2,23,0.3,93,170,7715,11,390,28,90
+PECO2-7(3),Penstemon_comarrhenus,UT2,San Juan,UT,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",3,21,1,24,0.13,93,170,7715,11,390,28,90
+PECO2-8(3),Penstemon_comarrhenus,UT2,San Juan,UT,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",2,22,1,24,0.08,93,170,7715,11,390,28,90
+PECO1-1(4),Penstemon_comarrhenus,UT1,Kane,UT,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",2,23,0,25,0.08,68,149,8403,171,427,22,109
+PECO1-2(4),Penstemon_comarrhenus,UT1,Kane,UT,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",4,20,1,24,0.17,68,149,8403,171,427,22,109
+PECO1-3(4),Penstemon_comarrhenus,UT1,Kane,UT,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",1,24,0,25,0.04,68,149,8403,171,427,22,109
+PECO1-4(4),Penstemon_comarrhenus,UT1,Kane,UT,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",3,20,2,23,0.13,68,149,8403,171,427,22,109
+PECO1-5(4),Penstemon_comarrhenus,UT1,Kane,UT,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",7,18,0,25,0.28,68,149,8403,171,427,22,109
+PECO1-6(4),Penstemon_comarrhenus,UT1,Kane,UT,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",13,11,1,24,0.54,68,149,8403,171,427,22,109
+PECO1-7(4),Penstemon_comarrhenus,UT1,Kane,UT,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",3,20,2,23,0.13,68,149,8403,171,427,22,109
+PECO1-8(4),Penstemon_comarrhenus,UT1,Kane,UT,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",8,16,1,24,0.33,68,149,8403,171,427,22,109
+PECO2-1(4),Penstemon_comarrhenus,UT2,San Juan,UT,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",1,24,0,25,0.04,93,170,7715,11,390,28,90
+PECO2-2(4),Penstemon_comarrhenus,UT2,San Juan,UT,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",1,24,0,25,0.04,93,170,7715,11,390,28,90
+PECO2-3(4),Penstemon_comarrhenus,UT2,San Juan,UT,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",0,25,0,25,0,93,170,7715,11,390,28,90
+PECO2-4(4),Penstemon_comarrhenus,UT2,San Juan,UT,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",0,25,0,25,0,93,170,7715,11,390,28,90
+PECO2-5(4),Penstemon_comarrhenus,UT2,San Juan,UT,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",1,24,0,25,0.04,93,170,7715,11,390,28,90
+PECO2-6(4),Penstemon_comarrhenus,UT2,San Juan,UT,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",3,22,0,25,0.12,93,170,7715,11,390,28,90
+PECO2-7(4),Penstemon_comarrhenus,UT2,San Juan,UT,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",5,20,0,25,0.2,93,170,7715,11,390,28,90
+PECO2-8(4),Penstemon_comarrhenus,UT2,San Juan,UT,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",2,22,1,24,0.08,93,170,7715,11,390,28,90
+PLPA1-1(1),Plantago_patagonica,UT,Grand,UT,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",14,11,0,25,0.54,111,160,9467,180,228,24,59
+PLPA1-2(1),Plantago_patagonica,UT,Grand,UT,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",11,14,0,25,0.44,111,160,9467,180,228,24,59
+PLPA1-3(1),Plantago_patagonica,UT,Grand,UT,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",16,8,1,24,0.67,111,160,9467,180,228,24,59
+PLPA1-4(1),Plantago_patagonica,UT,Grand,UT,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",10,14,1,24,0.42,111,160,9467,180,228,24,59
+PLPA1-5(1),Plantago_patagonica,UT,Grand,UT,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",17,8,0,25,0.68,111,160,9467,180,228,24,59
+PLPA1-6(1),Plantago_patagonica,UT,Grand,UT,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",14,11,0,25,0.54,111,160,9467,180,228,24,59
+PLPA1-7(1),Plantago_patagonica,UT,Grand,UT,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",11,14,0,25,0.44,111,160,9467,180,228,24,59
+PLPA1-8(1),Plantago_patagonica,UT,Grand,UT,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",15,10,0,25,0.6,111,160,9467,180,228,24,59
+PLPA2-1(1),Plantago_patagonica,AZ,Flagstaff,AZ,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",25,0,0,25,1,62,159,6985,150,540,37,158
+PLPA2-2(1),Plantago_patagonica,AZ,Flagstaff,AZ,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",24,0,1,24,1,62,159,6985,150,540,37,158
+PLPA2-3(1),Plantago_patagonica,AZ,Flagstaff,AZ,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",23,2,0,25,0.92,62,159,6985,150,540,37,158
+PLPA2-4(1),Plantago_patagonica,AZ,Flagstaff,AZ,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",25,0,0,25,1,62,159,6985,150,540,37,158
+PLPA2-5(1),Plantago_patagonica,AZ,Flagstaff,AZ,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",25,0,0,25,1,62,159,6985,150,540,37,158
+PLPA2-6(1),Plantago_patagonica,AZ,Flagstaff,AZ,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",25,0,0,25,1,62,159,6985,150,540,37,158
+PLPA2-7(1),Plantago_patagonica,AZ,Flagstaff,AZ,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",25,0,0,25,1,62,159,6985,150,540,37,158
+PLPA2-8(1),Plantago_patagonica,AZ,Flagstaff,AZ,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",24,1,0,25,0.96,62,159,6985,150,540,37,158
+PLPA3-1(1),Plantago_patagonica,NM,Apache Creek,NM,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",21,4,0,25,0.84,91,213,7030,179,387,63,161
+PLPA3-2(1),Plantago_patagonica,NM,Apache Creek,NM,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",18,7,0,25,0.72,91,213,7030,179,387,63,161
+PLPA3-3(1),Plantago_patagonica,NM,Apache Creek,NM,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",22,3,0,25,0.88,91,213,7030,179,387,63,161
+PLPA3-4(1),Plantago_patagonica,NM,Apache Creek,NM,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",22,3,0,25,0.88,91,213,7030,179,387,63,161
+PLPA3-5(1),Plantago_patagonica,NM,Apache Creek,NM,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",24,1,0,25,0.96,91,213,7030,179,387,63,161
+PLPA3-6(1),Plantago_patagonica,NM,Apache Creek,NM,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",24,1,0,25,0.96,91,213,7030,179,387,63,161
+PLPA3-7(1),Plantago_patagonica,NM,Apache Creek,NM,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",24,1,0,25,0.96,91,213,7030,179,387,63,161
+PLPA3-8(1),Plantago_patagonica,NM,Apache Creek,NM,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",24,1,0,25,0.96,91,213,7030,179,387,63,161
+PLPA4-1(1),Plantago_patagonica,CO,Delta,CO,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",25,0,0,25,1,93,166,8772,159,294,21,74
+PLPA4-2(1),Plantago_patagonica,CO,Delta,CO,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",25,0,0,25,1,93,166,8772,159,294,21,74
+PLPA4-3(1),Plantago_patagonica,CO,Delta,CO,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",25,0,0,25,1,93,166,8772,159,294,21,74
+PLPA4-4(1),Plantago_patagonica,CO,Delta,CO,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",25,0,0,25,1,93,166,8772,159,294,21,74
+PLPA4-5(1),Plantago_patagonica,CO,Delta,CO,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",25,0,0,25,1,93,166,8772,159,294,21,74
+PLPA4-6(1),Plantago_patagonica,CO,Delta,CO,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",25,0,0,25,1,93,166,8772,159,294,21,74
+PLPA4-7(1),Plantago_patagonica,CO,Delta,CO,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",25,0,0,25,1,93,166,8772,159,294,21,74
+PLPA4-8(1),Plantago_patagonica,CO,Delta,CO,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",25,0,0,25,1,93,166,8772,159,294,21,74
+PLPA1-1(2),Plantago_patagonica,UT,Grand,UT,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",5,20,0,25,0.2,111,160,9467,180,228,24,59
+PLPA1-2(2),Plantago_patagonica,UT,Grand,UT,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",4,21,0,25,0.16,111,160,9467,180,228,24,59
+PLPA1-3(2),Plantago_patagonica,UT,Grand,UT,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",1,24,0,25,0.04,111,160,9467,180,228,24,59
+PLPA1-4(2),Plantago_patagonica,UT,Grand,UT,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",4,21,0,25,0.16,111,160,9467,180,228,24,59
+PLPA1-5(2),Plantago_patagonica,UT,Grand,UT,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",2,23,0,25,0.08,111,160,9467,180,228,24,59
+PLPA1-6(2),Plantago_patagonica,UT,Grand,UT,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",4,21,0,25,0.16,111,160,9467,180,228,24,59
+PLPA1-7(2),Plantago_patagonica,UT,Grand,UT,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",0,25,0,25,0,111,160,9467,180,228,24,59
+PLPA1-8(2),Plantago_patagonica,UT,Grand,UT,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",4,21,0,25,0.16,111,160,9467,180,228,24,59
+PLPA2-1(2),Plantago_patagonica,AZ,Flagstaff,AZ,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",25,0,0,25,1,62,159,6985,150,540,37,158
+PLPA2-2(2),Plantago_patagonica,AZ,Flagstaff,AZ,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",25,0,0,25,0.96,62,159,6985,150,540,37,158
+PLPA2-3(2),Plantago_patagonica,AZ,Flagstaff,AZ,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",24,1,0,25,0.96,62,159,6985,150,540,37,158
+PLPA2-4(2),Plantago_patagonica,AZ,Flagstaff,AZ,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",24,1,0,25,0.96,62,159,6985,150,540,37,158
+PLPA2-5(2),Plantago_patagonica,AZ,Flagstaff,AZ,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",25,0,0,25,1,62,159,6985,150,540,37,158
+PLPA2-6(2),Plantago_patagonica,AZ,Flagstaff,AZ,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",25,0,0,25,1,62,159,6985,150,540,37,158
+PLPA2-7(2),Plantago_patagonica,AZ,Flagstaff,AZ,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",25,0,0,25,1,62,159,6985,150,540,37,158
+PLPA2-8(2),Plantago_patagonica,AZ,Flagstaff,AZ,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",25,0,0,25,1,62,159,6985,150,540,37,158
+PLPA3-1(2),Plantago_patagonica,NM,Apache Creek,NM,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",6,19,0,25,0.24,91,213,7030,179,387,63,161
+PLPA3-2(2),Plantago_patagonica,NM,Apache Creek,NM,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",4,21,0,25,0.16,91,213,7030,179,387,63,161
+PLPA3-3(2),Plantago_patagonica,NM,Apache Creek,NM,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",10,13,1,23,0.43,91,213,7030,179,387,63,161
+PLPA3-4(2),Plantago_patagonica,NM,Apache Creek,NM,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",3,22,0,25,0.12,91,213,7030,179,387,63,161
+PLPA3-5(2),Plantago_patagonica,NM,Apache Creek,NM,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",25,0,0,25,1,91,213,7030,179,387,63,161
+PLPA3-6(2),Plantago_patagonica,NM,Apache Creek,NM,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",24,1,0,25,0.96,91,213,7030,179,387,63,161
+PLPA3-7(2),Plantago_patagonica,NM,Apache Creek,NM,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",22,3,0,25,0.88,91,213,7030,179,387,63,161
+PLPA3-8(2),Plantago_patagonica,NM,Apache Creek,NM,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",25,0,0,25,1,91,213,7030,179,387,63,161
+PLPA4-1(2),Plantago_patagonica,CO,Delta,CO,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",7,18,0,25,0.28,93,166,8772,159,294,21,74
+PLPA4-2(2),Plantago_patagonica,CO,Delta,CO,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",9,13,0,22,0.41,93,166,8772,159,294,21,74
+PLPA4-3(2),Plantago_patagonica,CO,Delta,CO,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",11,14,0,25,0.44,93,166,8772,159,294,21,74
+PLPA4-4(2),Plantago_patagonica,CO,Delta,CO,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",9,16,0,25,0.36,93,166,8772,159,294,21,74
+PLPA4-5(2),Plantago_patagonica,CO,Delta,CO,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",14,11,0,25,0.56,93,166,8772,159,294,21,74
+PLPA4-6(2),Plantago_patagonica,CO,Delta,CO,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",12,13,0,25,0.48,93,166,8772,159,294,21,74
+PLPA4-7(2),Plantago_patagonica,CO,Delta,CO,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",14,11,0,25,0.56,93,166,8772,159,294,21,74
+PLPA4-8(2),Plantago_patagonica,CO,Delta,CO,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",15,10,0,25,0.58,93,166,8772,159,294,21,74
+PLPA1-1(3),Plantago_patagonica,UT,Grand,UT,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",0,25,0,25,0,111,160,9467,180,228,24,59
+PLPA1-2(3),Plantago_patagonica,UT,Grand,UT,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",1,24,0,25,0.04,111,160,9467,180,228,24,59
+PLPA1-3(3),Plantago_patagonica,UT,Grand,UT,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",0,25,0,25,0,111,160,9467,180,228,24,59
+PLPA1-4(3),Plantago_patagonica,UT,Grand,UT,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",0,25,0,25,0,111,160,9467,180,228,24,59
+PLPA1-5(3),Plantago_patagonica,UT,Grand,UT,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",1,24,0,25,0.04,111,160,9467,180,228,24,59
+PLPA1-6(3),Plantago_patagonica,UT,Grand,UT,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",0,25,0,25,0,111,160,9467,180,228,24,59
+PLPA1-7(3),Plantago_patagonica,UT,Grand,UT,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",4,21,0,25,0.16,111,160,9467,180,228,24,59
+PLPA1-8(3),Plantago_patagonica,UT,Grand,UT,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",0,25,0,25,0,111,160,9467,180,228,24,59
+PLPA2-1(3),Plantago_patagonica,AZ,Flagstaff,AZ,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",5,20,0,25,0.19,62,159,6985,150,540,37,158
+PLPA2-2(3),Plantago_patagonica,AZ,Flagstaff,AZ,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",2,23,0,25,0.08,62,159,6985,150,540,37,158
+PLPA2-3(3),Plantago_patagonica,AZ,Flagstaff,AZ,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",6,19,0,25,0.24,62,159,6985,150,540,37,158
+PLPA2-4(3),Plantago_patagonica,AZ,Flagstaff,AZ,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",3,22,0,25,0.12,62,159,6985,150,540,37,158
+PLPA2-5(3),Plantago_patagonica,AZ,Flagstaff,AZ,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",11,14,0,25,0.44,62,159,6985,150,540,37,158
+PLPA2-6(3),Plantago_patagonica,AZ,Flagstaff,AZ,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",13,12,0,25,0.52,62,159,6985,150,540,37,158
+PLPA2-7(3),Plantago_patagonica,AZ,Flagstaff,AZ,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",10,15,0,25,0.4,62,159,6985,150,540,37,158
+PLPA2-8(3),Plantago_patagonica,AZ,Flagstaff,AZ,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",15,10,0,25,0.6,62,159,6985,150,540,37,158
+PLPA3-1(3),Plantago_patagonica,NM,Apache Creek,NM,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",6,19,0,25,0.24,91,213,7030,179,387,63,161
+PLPA3-2(3),Plantago_patagonica,NM,Apache Creek,NM,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",2,23,0,25,0.08,91,213,7030,179,387,63,161
+PLPA3-3(3),Plantago_patagonica,NM,Apache Creek,NM,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",2,23,0,25,0.08,91,213,7030,179,387,63,161
+PLPA3-4(3),Plantago_patagonica,NM,Apache Creek,NM,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",3,22,0,25,0.12,91,213,7030,179,387,63,161
+PLPA3-5(3),Plantago_patagonica,NM,Apache Creek,NM,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",22,3,0,25,0.88,91,213,7030,179,387,63,161
+PLPA3-6(3),Plantago_patagonica,NM,Apache Creek,NM,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",16,9,0,25,0.64,91,213,7030,179,387,63,161
+PLPA3-7(3),Plantago_patagonica,NM,Apache Creek,NM,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",22,3,0,25,0.88,91,213,7030,179,387,63,161
+PLPA3-8(3),Plantago_patagonica,NM,Apache Creek,NM,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",24,1,0,25,0.92,91,213,7030,179,387,63,161
+PLPA4-1(3),Plantago_patagonica,CO,Delta,CO,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",18,7,0,25,0.69,93,166,8772,159,294,21,74
+PLPA4-2(3),Plantago_patagonica,CO,Delta,CO,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",14,11,0,25,0.56,93,166,8772,159,294,21,74
+PLPA4-3(3),Plantago_patagonica,CO,Delta,CO,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",14,11,0,25,0.56,93,166,8772,159,294,21,74
+PLPA4-4(3),Plantago_patagonica,CO,Delta,CO,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",10,15,0,25,0.4,93,166,8772,159,294,21,74
+PLPA4-5(3),Plantago_patagonica,CO,Delta,CO,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",16,9,0,25,0.64,93,166,8772,159,294,21,74
+PLPA4-6(3),Plantago_patagonica,CO,Delta,CO,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",10,15,0,25,0.4,93,166,8772,159,294,21,74
+PLPA4-7(3),Plantago_patagonica,CO,Delta,CO,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",8,17,0,25,0.32,93,166,8772,159,294,21,74
+PLPA4-8(3),Plantago_patagonica,CO,Delta,CO,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",12,13,0,25,0.48,93,166,8772,159,294,21,74
+PLPA1-1(4),Plantago_patagonica,UT,Grand,UT,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",4,18,3,22,0.18,111,160,9467,180,228,24,59
+PLPA1-2(4),Plantago_patagonica,UT,Grand,UT,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",2,20,3,22,0.09,111,160,9467,180,228,24,59
+PLPA1-3(4),Plantago_patagonica,UT,Grand,UT,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",6,19,0,25,0.24,111,160,9467,180,228,24,59
+PLPA1-4(4),Plantago_patagonica,UT,Grand,UT,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",6,19,0,25,0.24,111,160,9467,180,228,24,59
+PLPA1-5(4),Plantago_patagonica,UT,Grand,UT,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",16,9,0,25,0.64,111,160,9467,180,228,24,59
+PLPA1-6(4),Plantago_patagonica,UT,Grand,UT,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",8,17,0,25,0.32,111,160,9467,180,228,24,59
+PLPA1-7(4),Plantago_patagonica,UT,Grand,UT,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",13,12,0,25,0.52,111,160,9467,180,228,24,59
+PLPA1-8(4),Plantago_patagonica,UT,Grand,UT,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",10,15,0,25,0.4,111,160,9467,180,228,24,59
+PLPA2-1(4),Plantago_patagonica,AZ,Flagstaff,AZ,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",19,6,0,25,0.76,62,159,6985,150,540,37,158
+PLPA2-2(4),Plantago_patagonica,AZ,Flagstaff,AZ,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",20,5,0,25,0.8,62,159,6985,150,540,37,158
+PLPA2-3(4),Plantago_patagonica,AZ,Flagstaff,AZ,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",13,12,0,25,0.52,62,159,6985,150,540,37,158
+PLPA2-4(4),Plantago_patagonica,AZ,Flagstaff,AZ,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",17,8,0,25,0.68,62,159,6985,150,540,37,158
+PLPA2-5(4),Plantago_patagonica,AZ,Flagstaff,AZ,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",22,3,0,25,0.88,62,159,6985,150,540,37,158
+PLPA2-6(4),Plantago_patagonica,AZ,Flagstaff,AZ,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",24,0,0,24,1,62,159,6985,150,540,37,158
+PLPA2-7(4),Plantago_patagonica,AZ,Flagstaff,AZ,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",25,0,0,25,1,62,159,6985,150,540,37,158
+PLPA2-8(4),Plantago_patagonica,AZ,Flagstaff,AZ,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",25,0,0,25,1,62,159,6985,150,540,37,158
+PLPA3-1(4),Plantago_patagonica,NM,Apache Creek,NM,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",2,23,0,25,0.08,91,213,7030,179,387,63,161
+PLPA3-2(4),Plantago_patagonica,NM,Apache Creek,NM,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",0,25,0,25,0,91,213,7030,179,387,63,161
+PLPA3-3(4),Plantago_patagonica,NM,Apache Creek,NM,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",10,15,0,25,0.4,91,213,7030,179,387,63,161
+PLPA3-4(4),Plantago_patagonica,NM,Apache Creek,NM,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",0,25,0,25,0,91,213,7030,179,387,63,161
+PLPA3-5(4),Plantago_patagonica,NM,Apache Creek,NM,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",25,0,0,25,1,91,213,7030,179,387,63,161
+PLPA3-6(4),Plantago_patagonica,NM,Apache Creek,NM,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",22,2,0,24,0.92,91,213,7030,179,387,63,161
+PLPA3-7(4),Plantago_patagonica,NM,Apache Creek,NM,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",25,0,0,25,1,91,213,7030,179,387,63,161
+PLPA3-8(4),Plantago_patagonica,NM,Apache Creek,NM,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",24,1,0,25,0.96,91,213,7030,179,387,63,161
+PLPA4-1(4),Plantago_patagonica,CO,Delta,CO,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",16,9,0,25,0.64,93,166,8772,159,294,21,74
+PLPA4-2(4),Plantago_patagonica,CO,Delta,CO,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",18,7,0,25,0.72,93,166,8772,159,294,21,74
+PLPA4-3(4),Plantago_patagonica,CO,Delta,CO,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",19,6,0,25,0.76,93,166,8772,159,294,21,74
+PLPA4-4(4),Plantago_patagonica,CO,Delta,CO,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",16,9,0,25,0.64,93,166,8772,159,294,21,74
+PLPA4-5(4),Plantago_patagonica,CO,Delta,CO,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",21,4,0,25,0.84,93,166,8772,159,294,21,74
+PLPA4-6(4),Plantago_patagonica,CO,Delta,CO,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",22,3,0,25,0.88,93,166,8772,159,294,21,74
+PLPA4-7(4),Plantago_patagonica,CO,Delta,CO,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",22,3,0,25,0.88,93,166,8772,159,294,21,74
+PLPA4-8(4),Plantago_patagonica,CO,Delta,CO,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",19,6,0,25,0.76,93,166,8772,159,294,21,74
+SPPA1-1(1),Sphaeralcea_parvifolia,AZ,Winona,AZ,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",6,13,6,19,0.32,120,165,9610,189,229,20,55
+SPPA1-2(1),Sphaeralcea_parvifolia,AZ,Winona,AZ,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",10,8,7,18,0.56,120,165,9610,189,229,20,55
+SPPA1-3(1),Sphaeralcea_parvifolia,AZ,Winona,AZ,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",8,12,5,20,0.4,120,165,9610,189,229,20,55
+SPPA1-4(1),Sphaeralcea_parvifolia,AZ,Winona,AZ,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",5,16,4,21,0.24,120,165,9610,189,229,20,55
+SPPA1-5(1),Sphaeralcea_parvifolia,AZ,Winona,AZ,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",8,14,3,22,0.36,120,165,9610,189,229,20,55
+SPPA1-6(1),Sphaeralcea_parvifolia,AZ,Winona,AZ,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",6,14,5,20,0.3,120,165,9610,189,229,20,55
+SPPA1-7(1),Sphaeralcea_parvifolia,AZ,Winona,AZ,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",9,13,3,22,0.41,120,165,9610,189,229,20,55
+SPPA1-8(1),Sphaeralcea_parvifolia,AZ,Winona,AZ,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",7,12,6,19,0.37,120,165,9610,189,229,20,55
+SPPA2-1(1),Sphaeralcea_parvifolia,UT,Grand,UT,1,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",14,10,1,24,0.58,89,163,7383,181,465,38,136
+SPPA2-2(1),Sphaeralcea_parvifolia,UT,Grand,UT,2,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",11,5,9,16,0.69,89,163,7383,181,465,38,136
+SPPA2-3(1),Sphaeralcea_parvifolia,UT,Grand,UT,3,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",17,2,6,19,0.89,89,163,7383,181,465,38,136
+SPPA2-4(1),Sphaeralcea_parvifolia,UT,Grand,UT,4,8,3,"8wks, 3C",20/10,"8w (3C), 20/10C",14,4,7,18,0.78,89,163,7383,181,465,38,136
+SPPA2-5(1),Sphaeralcea_parvifolia,UT,Grand,UT,1,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",20,3,2,23,0.87,89,163,7383,181,465,38,136
+SPPA2-6(1),Sphaeralcea_parvifolia,UT,Grand,UT,2,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",18,3,4,21,0.86,89,163,7383,181,465,38,136
+SPPA2-7(1),Sphaeralcea_parvifolia,UT,Grand,UT,3,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",13,8,4,21,0.62,89,163,7383,181,465,38,136
+SPPA2-8(1),Sphaeralcea_parvifolia,UT,Grand,UT,4,8,3,"8wks, 3C",25/15,"8w (3C), 25/15C",20,4,1,24,0.83,89,163,7383,181,465,38,136
+SPPA1-1(2),Sphaeralcea_parvifolia,AZ,Winona,AZ,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",8,12,5,20,0.4,120,165,9610,189,229,20,55
+SPPA1-2(2),Sphaeralcea_parvifolia,AZ,Winona,AZ,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",9,12,4,21,0.43,120,165,9610,189,229,20,55
+SPPA1-3(2),Sphaeralcea_parvifolia,AZ,Winona,AZ,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",8,12,5,20,0.4,120,165,9610,189,229,20,55
+SPPA1-4(2),Sphaeralcea_parvifolia,AZ,Winona,AZ,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",6,16,3,22,0.27,120,165,9610,189,229,20,55
+SPPA1-5(2),Sphaeralcea_parvifolia,AZ,Winona,AZ,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",13,8,4,21,0.62,120,165,9610,189,229,20,55
+SPPA1-6(2),Sphaeralcea_parvifolia,AZ,Winona,AZ,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",11,7,7,18,0.61,120,165,9610,189,229,20,55
+SPPA1-7(2),Sphaeralcea_parvifolia,AZ,Winona,AZ,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",11,12,2,23,0.48,120,165,9610,189,229,20,55
+SPPA1-8(2),Sphaeralcea_parvifolia,AZ,Winona,AZ,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",14,8,3,22,0.64,120,165,9610,189,229,20,55
+SPPA2-1(2),Sphaeralcea_parvifolia,UT,Grand,UT,1,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",14,7,3,21,0.67,89,163,7383,181,465,38,136
+SPPA2-2(2),Sphaeralcea_parvifolia,UT,Grand,UT,2,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",9,14,2,23,0.39,89,163,7383,181,465,38,136
+SPPA2-3(2),Sphaeralcea_parvifolia,UT,Grand,UT,3,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",7,14,4,21,0.33,89,163,7383,181,465,38,136
+SPPA2-4(2),Sphaeralcea_parvifolia,UT,Grand,UT,4,3,3,"3wks, 3C",20/10,"3w (3C), 20/10C",10,11,3,21,0.48,89,163,7383,181,465,38,136
+SPPA2-5(2),Sphaeralcea_parvifolia,UT,Grand,UT,1,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",8,12,5,20,0.4,89,163,7383,181,465,38,136
+SPPA2-6(2),Sphaeralcea_parvifolia,UT,Grand,UT,2,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",14,7,4,21,0.67,89,163,7383,181,465,38,136
+SPPA2-7(2),Sphaeralcea_parvifolia,UT,Grand,UT,3,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",5,13,7,18,0.28,89,163,7383,181,465,38,136
+SPPA2-8(2),Sphaeralcea_parvifolia,UT,Grand,UT,4,3,3,"3wks, 3C",25/15,"3w (3C), 25/15C",12,9,4,21,0.57,89,163,7383,181,465,38,136
+SPPA1-1(3),Sphaeralcea_parvifolia,AZ,Winona,AZ,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",14,8,3,22,0.64,120,165,9610,189,229,20,55
+SPPA1-2(3),Sphaeralcea_parvifolia,AZ,Winona,AZ,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",11,8,6,19,0.58,120,165,9610,189,229,20,55
+SPPA1-3(3),Sphaeralcea_parvifolia,AZ,Winona,AZ,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",12,4,9,16,0.75,120,165,9610,189,229,20,55
+SPPA1-4(3),Sphaeralcea_parvifolia,AZ,Winona,AZ,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",15,5,5,20,0.75,120,165,9610,189,229,20,55
+SPPA1-5(3),Sphaeralcea_parvifolia,AZ,Winona,AZ,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",15,7,3,22,0.68,120,165,9610,189,229,20,55
+SPPA1-6(3),Sphaeralcea_parvifolia,AZ,Winona,AZ,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",19,4,2,23,0.83,120,165,9610,189,229,20,55
+SPPA1-7(3),Sphaeralcea_parvifolia,AZ,Winona,AZ,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",12,9,4,21,0.57,120,165,9610,189,229,20,55
+SPPA1-8(3),Sphaeralcea_parvifolia,AZ,Winona,AZ,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",17,6,3,23,0.74,120,165,9610,189,229,20,55
+SPPA2-1(3),Sphaeralcea_parvifolia,UT,Grand,UT,1,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",10,10,5,20,0.5,89,163,7383,181,465,38,136
+SPPA2-2(3),Sphaeralcea_parvifolia,UT,Grand,UT,2,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",7,9,9,16,0.44,89,163,7383,181,465,38,136
+SPPA2-3(3),Sphaeralcea_parvifolia,UT,Grand,UT,3,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",6,12,7,18,0.33,89,163,7383,181,465,38,136
+SPPA2-4(3),Sphaeralcea_parvifolia,UT,Grand,UT,4,3,30,"3wks, 30C",20/10,"3w (30C), 20/10C",11,12,2,23,0.48,89,163,7383,181,465,38,136
+SPPA2-5(3),Sphaeralcea_parvifolia,UT,Grand,UT,1,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",15,7,3,22,0.68,89,163,7383,181,465,38,136
+SPPA2-6(3),Sphaeralcea_parvifolia,UT,Grand,UT,2,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",8,9,8,17,0.47,89,163,7383,181,465,38,136
+SPPA2-7(3),Sphaeralcea_parvifolia,UT,Grand,UT,3,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",11,5,9,16,0.69,89,163,7383,181,465,38,136
+SPPA2-8(3),Sphaeralcea_parvifolia,UT,Grand,UT,4,3,30,"3wks, 30C",25/15,"3w (30C), 25/15C",13,5,7,18,0.72,89,163,7383,181,465,38,136
+SPPA1-1(4),Sphaeralcea_parvifolia,AZ,Winona,AZ,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",17,1,7,18,0.94,120,165,9610,189,229,20,55
+SPPA1-2(4),Sphaeralcea_parvifolia,AZ,Winona,AZ,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",11,8,6,19,0.58,120,165,9610,189,229,20,55
+SPPA1-3(4),Sphaeralcea_parvifolia,AZ,Winona,AZ,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",16,5,4,21,0.76,120,165,9610,189,229,20,55
+SPPA1-4(4),Sphaeralcea_parvifolia,AZ,Winona,AZ,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",16,7,2,23,0.7,120,165,9610,189,229,20,55
+SPPA1-5(4),Sphaeralcea_parvifolia,AZ,Winona,AZ,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",18,5,2,23,0.78,120,165,9610,189,229,20,55
+SPPA1-6(4),Sphaeralcea_parvifolia,AZ,Winona,AZ,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",16,4,5,20,0.8,120,165,9610,189,229,20,55
+SPPA1-7(4),Sphaeralcea_parvifolia,AZ,Winona,AZ,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",17,5,3,22,0.77,120,165,9610,189,229,20,55
+SPPA1-8(4),Sphaeralcea_parvifolia,AZ,Winona,AZ,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",16,4,5,20,0.8,120,165,9610,189,229,20,55
+SPPA2-1(4),Sphaeralcea_parvifolia,UT,Grand,UT,1,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",15,8,2,23,0.65,89,163,7383,181,465,38,136
+SPPA2-2(4),Sphaeralcea_parvifolia,UT,Grand,UT,2,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",13,10,2,23,0.57,89,163,7383,181,465,38,136
+SPPA2-3(4),Sphaeralcea_parvifolia,UT,Grand,UT,3,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",14,9,2,23,0.61,89,163,7383,181,465,38,136
+SPPA2-4(4),Sphaeralcea_parvifolia,UT,Grand,UT,4,0,NS,"0wks, NS",20/10,"0w (NS), 20/10C",14,2,9,16,0.88,89,163,7383,181,465,38,136
+SPPA2-5(4),Sphaeralcea_parvifolia,UT,Grand,UT,1,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",19,3,3,22,0.86,89,163,7383,181,465,38,136
+SPPA2-6(4),Sphaeralcea_parvifolia,UT,Grand,UT,2,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",21,1,4,22,0.95,89,163,7383,181,465,38,136
+SPPA2-7(4),Sphaeralcea_parvifolia,UT,Grand,UT,3,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",19,3,3,22,0.86,89,163,7383,181,465,38,136
+SPPA2-8(4),Sphaeralcea_parvifolia,UT,Grand,UT,4,0,NS,"0wks, NS",25/15,"0w (NS), 25/15C",14,5,6,19,0.74,89,163,7383,181,465,38,136

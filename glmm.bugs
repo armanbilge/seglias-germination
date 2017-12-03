@@ -1,0 +1,65 @@
+model {
+  for (i in 1:n.species) {
+    zero.vector[i] <- 0
+  }
+  beta.prior.tau <- 1
+  indicator.prior <- 0.5
+  tau.prior.shape <- 0.1
+  tau.prior.rate <- 0.1
+  mu ~ dnorm(0, beta.prior.tau)
+  tau.A ~ dgamma(tau.prior.shape, tau.prior.rate)
+  species.beta ~ dmnorm(zero.vector, tau.A * Ainv)
+  sl.tau.A ~ dgamma(tau.prior.shape, tau.prior.rate)
+  st.tau.A ~ dgamma(tau.prior.shape, tau.prior.rate)
+  it.tau.A ~ dgamma(tau.prior.shape, tau.prior.rate)
+  sl.st.tau.A ~ dgamma(tau.prior.shape, tau.prior.rate)
+  sl.it.tau.A ~ dgamma(tau.prior.shape, tau.prior.rate)
+  st.it.tau.A ~ dgamma(tau.prior.shape, tau.prior.rate)
+  for (i in 1:3) {
+    sl.mu[i] ~ dnorm(0, beta.prior.tau)
+    st.mu[i] ~ dnorm(0, beta.prior.tau)
+    sl.beta[1:n.species,i] ~ dmnorm(zero.vector, sl.tau.A * Ainv)
+    st.beta[1:n.species,i] ~ dmnorm(zero.vector, st.tau.A * Ainv)
+    for (j in 1:3) {
+      sl.st.beta[1:n.species,i,j] ~ dmnorm(zero.vector, sl.st.tau.A * Ainv)
+    }
+    for (j in 1:2) {
+      sl.it.beta[1:n.species,i,j] ~ dmnorm(zero.vector, sl.it.tau.A * Ainv)
+      st.it.beta[1:n.species,i,j] ~ dmnorm(zero.vector, st.it.tau.A * Ainv)
+    }
+  }
+  for (i in 1:2) {
+    it.mu[i] ~ dnorm(0, beta.prior.tau)
+    it.beta[1:n.species,i] ~ dmnorm(zero.vector, it.tau.A * Ainv)
+  }
+  for (i in 1:n.species) {
+    pop.indicator[i] ~ dbern(indicator.prior)
+    sl.indicator[i] ~ dbern(indicator.prior)
+    st.indicator[i] ~ dbern(indicator.prior)
+    it.indicator[i] ~ dbern(indicator.prior)
+    pop.sl.indicator[i] ~ dbern(pop.indicator[i] * sl.indicator[i] * indicator.prior)
+    pop.st.indicator[i] ~ dbern(pop.indicator[i] * st.indicator[i] * indicator.prior)
+    pop.it.indicator[i] ~ dbern(pop.indicator[i] * it.indicator[i] * indicator.prior)
+    sl.st.indicator[i] ~ dbern(sl.indicator[i] * st.indicator[i] * indicator.prior)
+    sl.it.indicator[i] ~ dbern(sl.indicator[i] * it.indicator[i] * indicator.prior)
+    st.it.indicator[i] ~ dbern(st.indicator[i] * it.indicator[i] * indicator.prior)
+    for (j in 1:n.populations[i]) {
+      pop.beta[i,j] ~ dnorm(0, beta.prior.tau)
+    }
+    for (j in 1:3) {
+      for (k in 1:n.populations[i]) {
+        pop.sl.beta[i,k,j] ~ dnorm(0, beta.prior.tau)
+        pop.st.beta[i,k,j] ~ dnorm(0, beta.prior.tau)
+      }
+    }
+    for (j in 1:2) {
+      for (k in 1:n.populations[i]) {
+        pop.it.beta[i,k,j] ~ dnorm(0, beta.prior.tau)
+      }
+    }
+  }
+  for (i in 1:length(data.germinated)) {
+    logit(p[i]) <- mu + species.beta[data.species[i]] + pop.indicator[data.species[i]] * pop.beta[data.species[i],data.pop[i]] + sl.indicator[data.species[i]] * (sl.mu[data.sl[i]] + sl.beta[data.species[i],data.sl[i]]) + st.indicator[data.species[i]] * (st.mu[data.st[i]] + st.beta[data.species[i],data.st[i]]) + it.indicator[data.species[i]] * (it.mu[data.it[i]] + it.beta[data.species[i],data.it[i]]) + pop.sl.indicator[data.species[i]] * pop.sl.beta[data.species[i], data.pop[i], data.sl[i]] + pop.st.indicator[data.species[i]] * pop.st.beta[data.species[i], data.pop[i], data.st[i]] + pop.it.indicator[data.species[i]] * pop.it.beta[data.species[i], data.pop[i], data.it[i]] + sl.st.indicator[data.species[i]] * sl.st.beta[data.species[i], data.sl[i], data.st[i]] + sl.it.indicator[data.species[i]] * sl.it.beta[data.species[i], data.sl[i], data.it[i]] + st.it.indicator[data.species[i]] * st.it.beta[data.species[i], data.st[i], data.it[i]]
+    data.germinated[i] ~ dbin(p[i], data.viable[i])
+  }
+}

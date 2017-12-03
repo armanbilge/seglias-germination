@@ -1,0 +1,77 @@
+```{R, include = F}
+library(coda)
+df <- read.csv("noCLSE.csv", header = T)
+df.strat <- df[df$Strat.Length != 0,]
+n.species <- length(levels(df$Species))
+load("glmm.strat.coda")
+mcmc.strat <- mcmc
+load("glmm.coda")
+
+indicator.table <- function(df, mcmc) {
+  get.col <- function(col) {
+    return(colMeans(mcmc[[1]][,sapply(1:8, function(i) paste(col, "[", i, "]", sep = ""))]))
+  }
+  df <- data.frame(
+    Species = sapply(gsub("_", " ", as.character(levels(df$Species))), function(x) paste("_", x, "_", sep = "")),
+    P = get.col("pop.indicator"),
+    SL = get.col("sl.indicator"),
+    ST = get.col("st.indicator"),
+    IT = get.col("it.indicator"),
+    P.SL = get.col("pop.sl.indicator"),
+    P.ST = get.col("pop.st.indicator"),
+    P.IT = get.col("pop.it.indicator"),
+    SL.ST = get.col("sl.st.indicator"),
+    SL.IT = get.col("sl.it.indicator"),
+    ST.IT = get.col("st.it.indicator")
+  )
+  row.names(df) <- NULL
+  h <- sapply(c("Species", "P", "SL", "ST", "IT", "P:SL", "P:ST", "P:IT", "SL:ST", "SL:IT", "ST:IT"), function(x) paste("**", x, "**", sep = ""))
+  kable(df, col.names = h, digits = 2)
+}
+
+
+```
+
+## Methods
+
+We also fit a Bayesian generalized linear mixed model, with observations assumed to be Binomially-distributed with the logit link function.
+In brief, the germination probability for the $j$th population of the $i$th species under the experiment with stratification length $sl$, stratification temperature $st$, and incubation temperature $it$ was given by
+$$
+\begin{split}
+\text{logit}(p_{i,j,st,sl,it}) = \beta^\text{S}_{i} &+ \delta^\text{P}_i \beta^\text{P}_{ij} \\ &+ \delta^\text{SL}_i \beta^\text{SL}_{i,sl} + \delta^\text{ST}_i \beta^\text{ST}_{i,st} + \delta^\text{IT}_i \beta^\text{IT}_{i,it} \\ &+ \delta^\text{P:SL}_i \beta^\text{P:SL}_{i,j,sl} + \delta^\text{P:ST}_i \beta^\text{P:ST}_{i,j,st} + \delta^\text{P:IT}_i \beta^\text{P:IT}_{i,j,it} \\
+&+ \delta^\text{SL:ST}_i \beta^\text{SL:ST}_{i,sl,st} + \delta^\text{SL:IT}_i \beta^\text{SL:IT}_{i,sl,it} + \delta^\text{ST:IT}_i \beta^\text{ST:IT}_{i,st,it}.
+\end{split}
+$$
+The indicators $\delta$ were used to include or exclude the population and treatment factors and their interactions from the model.
+Each was given a prior probability of $P(\delta=1) = 0.5$, with interaction indicators conditioned on the inclusion of their interacting factors in the model.
+Population-dependent effect sizes $\beta$ were all given $\mathcal{N}(0, 1)$ priors.
+To account for correlations due to the species phylogenetic relationships, we modeled the remaining (non-population-dependent) coefficients $\beta$ as multivariate normally–distributed with the mean sampled from a $\mathcal{N}(0, 1)$ (or fixed at $0$ for interaction effects) and covariance given by $\sigma^2 \mathbf{A}$, where $\mathbf{A}$ is the phylogenetic relatedness matrix [1] calculated with MCMCglmm [2].
+While $\mathbf{A}$ was shared, a separate $\sigma^2$ was fitted for each coefficient with a gamma prior distribution $1 / \sigma^2 \sim \Gamma(0.1, 0.1)$.
+
+We implemented the model in JAGS v4.3.0 with the GLM module [3] to sample all parameters from the posterior, using 4 chains each with 5000 iterations of adaptation and another 5000 iterations of burnin before taking 50000 samples.
+The analysis was run twice, first considering all of the data and then using only germination during stratification.
+
+## Results
+
+For both analyses there was 0 posterior probability that the results were entirely explained by the phylogeny; a model that uses at least one population predictor was always preferred.
+
+Table: Posterior probability that each predictor belongs in the model for each species.
+
+```{R, echo = F}
+indicator.table(df, mcmc)
+```
+
+Table: Posterior probability that each predictor belongs in the model for each species when analyzing only germination during stratification.
+
+```{R, echo = F}
+indicator.table(df.strat, mcmc.strat)
+```
+
+## References
+
+1. Hadfield JD, Nakagawa S. General quantitative genetic methods for comparative biology: phylogenies, taxonomies and multi-trait models for continuous and categorical characters. J Evol Biol 2013;23: 494–508. doi:10.1111/j.1420-9101.2009.01915.x
+
+1. Hadfield JD. MCMC methods for multi-response generalized linear mixed models: the MCMCglmm R package. J Stat Soft 2010;33: 1–22. Available: http://www.jstatsoft.org/v33/i02/
+
+1. Plummer M. JAGS: a program for analysis of Bayesian graphical models using Gibbs sampling. Proceedings of the 3rd International Workshop on Distributed Statistical Computing 2003. Available: https://www.r-project.org/conferences/DSC-2003/Proceedings/Plummer.pdf
+
